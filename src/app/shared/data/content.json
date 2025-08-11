@@ -81,10 +81,10 @@
     },
     "services": [
       {
-        "title": "Building \nConstruction",
+        "title": "Fiabilité\net qualité 00000",
         "serial": "1",
         "icon": "assets/images/icon/crane-1.png",
-        "description": "lorem Ipsum available, but the majority have suffered alterati on in some form, by ious by accident."
+        "description": ""
       },
       {
         "title": "Building \nRenovation",
@@ -310,7 +310,7 @@
       {
         "icon": "assets/images/icon/crane-1.png",
         "title": "Building \nConstruction",
-        "description": "lorem Ipsum available, but the majority have suffered alterati on in some form, by ious by accident."
+        "description": "xxxxxxxx."
       },
       {
         "icon": "assets/images/icon/renovation.png",
@@ -940,16 +940,16 @@
     "about": {
       "slides": [
         {
-          "image": "assets/images/gallery/portrait/pic4.jpg"
+          "image": "assets/images/logo/logo.png"
         },
         {
-          "image": "assets/images/gallery/portrait/pic5.jpg"
+          "image": "assets/images/logo/logo.png"
         },
         {
-          "image": "assets/images/gallery/portrait/pic6.jpg"
+          "image": "assets/images/logo/logo.png"
         },
         {
-          "image": "assets/images/gallery/portrait/pic7.jpg"
+          "image": "assets/images/logo/logo.png"
         }
       ],
       "experience": "25",
@@ -961,28 +961,29 @@
       {
         "serial": "1",
         "icon": "assets/images/icon/crane-1.png",
-        "title": "Building \nConstruction",
-        "description": "lorem Ipsum available, but the majority have suffered alterati on in some form, by ious by accident."
+        "title": "Fiabilité et qualité",
+        "description": "Nous construisons pour durer, en accordant une importance primordiale à la fiabilité et à la qualité dans chacune de nos réalisations."
       },
       {
         "serial": "2",
         "icon": "assets/images/icon/renovation.png",
-        "title": "Building \nRenovation",
-        "description": "lorem Ipsum available, but the majority have suffered alterati on in some form, by ious by accident."
+        "title": "Esprit d’innovation",
+        "description": "L’innovation guide notre développement, offrant à nos partenaires et à notre environnement le meilleur de notre savoir-faire."
       },
       {
         "serial": "3",
         "icon": "assets/images/icon/toolbox.png",
-        "title": "Building \nMaintenance",
-        "description": "lorem Ipsum available, but the majority have suffered alterati on in some form, by ious by accident."
+        "title": "Respect des engagements",
+        "description": "Nous tenons nos engagements avec rigueur, renforçant ainsi notre réputation dans un secteur exigeant et compétitif."
       },
       {
         "serial": "4",
         "icon": "assets/images/icon/compass.png",
-        "title": "Architecture \nDesign",
-        "description": "lorem Ipsum available, but the majority have suffered alterati on in some form, by ious by accident."
+        "title": "Responsabilité socio-environnementale",
+        "description": "Nous plaçons nos équipes et nos communautés au cœur de nos actions, agissant chaque jour avec responsabilité et durabilité."
       }
     ],
+
     "team": [
       {
         "image": "assets/images/our-team4/pic1.png",
@@ -1913,11 +1914,103 @@
     "projects": [
       {
         "category": "cat-1",
-        "image": "assets/images/projects/portrait/pic1.jpg",
-        "linkImage": "assets/images/projects/portrait/pic4.jpg",
-        "title": "Life style building",
-        "description": "We are so busy watching out for what's just ahead of us that we don't take the time to enjoy where we are."
+        "image": "assets/images/logo/aru.png",
+        "linkImage": "assets/images/logo/aru.png",
+        "title": "ARRU",
+        "description": "Projet de voirie, d’assainissement des eaux usées, de drainage des eaux pluviales et d’aménagement d’un terrain de quartier dans la zone de BHAR LAZRAG (MARSA-TUNIS)"
       },
+      {
+        "category": "cat-1",
+        "image": "assets/images/logo/aru.png",
+        "linkImage": "assets/images/logo/aru.png",
+        "title": "ARRU",
+        "description": "Travaux de Voirie, d’eau Potable, drainage des eaux pluviales et d’éclairage public dans les quartiers MEKKI SUISSI, EL JADID, MAJLESS EL WILAYA ET KHATAB à NAASSAN (Ben AROUS)"
+      },
+      {
+        "category": "cat-1",
+        "image": "assets/images/logo/aru.png",
+        "linkImage": "assets/images/logo/aru.png",
+        "title": "ARRU",
+        "description": "Travaux de réhabilitation du ENNAJAH 1, MANZEL BOURGUIBA."
+      },
+      {
+        "category": "cat-1",
+        "image": "assets/images/logo/aru.png",
+        "linkImage": "assets/images/logo/aru.png",
+        "title": "ARRU",
+        "description": "Travaux de Voirie, drainage des eaux pluviales et d’assainissement dans la zone de BHAR LAZRAG – MARSA Tunis."
+      },
+      {
+        "category": "cat-1",
+        "image": "assets/images/logo/aru.png",
+        "linkImage": "assets/images/logo/aru.png",
+        "title": "ARRU",
+        "description": "Travaux de Voiries, d’éclairage public et d’aménagement d’un terrain du quartier AMRI – EL HAFIENE – TRABELSI, FOUCHANA."
+      },
+      {
+        "category": "cat-1",
+        "image": "assets/images/logo/aru.png",
+        "linkImage": "assets/images/logo/aru.png",
+        "title": "ARRU",
+        "description": "Travaux de Voirie, de Drainage d’eau pluviale, d’Assainissement des eaux usées, Alimentation en eau potable et d’Eclairage public dans le Quartier ESSALTNIA Commune SAKIET EDDAYER Gouvernorat de SFAX."
+      },
+      {
+        "category": "cat-1",
+        "image": "assets/images/logo/aru.png",
+        "linkImage": "assets/images/logo/aru.png",
+        "title": "ARRU",
+        "description": "Travaux de Voirie, de Drainage d’eau pluviale, d’Assainissement des eaux usées et D’Alimentation en eau potable dans le Quartier EZZITOUNA Commune TEJEROUINE Gouvernorat de EL KEF."
+      },
+      {
+        "category": "cat-1",
+        "image": "assets/images/logo/aru.png",
+        "linkImage": "assets/images/logo/aru.png",
+        "title": "ARRU",
+        "description": "Travaux de Voirie, de Drainage d’eau pluviale, d’Assainissement des eaux usées, Alimentation en eau potable et d’Eclairage public dans le Quartier ZANKET EL MSALLA (ZONE CIMER) Commune SAKIET EDDAYER Gouvernorat de SFAX."
+      },
+      {
+        "category": "cat-1",
+        "image": "assets/images/logo/afh.jpg",
+        "linkImage": "assets/images/logo/afh.jpg",
+        "title": "AFH",
+        "description": "TRAVAUX DES RESEAUX PRIMAIRES DU LOTISSEMENT 'LES JARDINS DE TUNIS' LOT 4"
+      },
+      {
+        "category": "cat-1",
+        "image": "assets/images/logo/dhu.png",
+        "linkImage": "assets/images/logo/dhu.png",
+        "title": "DHU",
+        "description": "TRAVAUX DE PROTECTION CONTRE LES INONDATIONS DE LA VILLE DE SFAX."
+      },
+      {
+        "category": "cat-1",
+        "image": "assets/images/logo/dhu.png",
+        "linkImage": "assets/images/logo/dhu.png",
+        "title": "DHU",
+        "description": "TRAVAUX DE PROTECTION CONTRE LES INONDATIONS DES VILLES DE HAMMAMET ET NABEUL."
+      },
+      {
+        "category": "cat-1",
+        "image": "assets/images/logo/simau.png",
+        "linkImage": "assets/images/logo/simau.png",
+        "title": "SIMAU",
+        "description": "travaux de viabilisation de la cité BETHEL (GCITT) de Ouedo dans la Commune d’Abomey-Calavi"
+      },
+      {
+        "category": "cat-1",
+        "image": "assets/images/logo/sirat.png",
+        "linkImage": "assets/images/logo/sirat.png",
+        "title": "SIRAT",
+        "description": "PROGRAMME D’ASSAINISSEMENT PLUVIAL DES VILLES SECONDAIRES, DEUXIEME PHASE (PAPVS-2).TRAVAUX DE CONSTRUCTION DE COLLECTEURS D’ASSAINISSEMENT PLUVIAL ET D’AMENAGEMENT DE VOIES CONNEXES DANS LA VILLE LOKOSSA 5LOT PAPVS-2T05)"
+      },
+      {
+        "category": "cat-1",
+        "image": "assets/images/logo/scit.jpeg",
+        "linkImage": "assets/images/logo/scit.jpeg",
+        "title": "SCIT",
+        "description": "TRAVAUX D’Aménagement de la zone industrielle de gare Mhamid a Tejrouine."
+      },
+
       {
         "category": "cat-2",
         "image": "assets/images/projects/portrait/pic2.jpg",
@@ -1965,13 +2058,6 @@
         "image": "assets/images/projects/portrait/pic8.jpg",
         "linkImage": "assets/images/projects/portrait/pic12.jpg",
         "title": "State Hermitage Museum",
-        "description": "We are so busy watching out for what's just ahead of us that we don't take the time to enjoy where we are."
-      },
-      {
-        "category": "cat-1",
-        "image": "assets/images/projects/portrait/pic9.jpg",
-        "linkImage": "assets/images/projects/portrait/pic11.jpg",
-        "title": "Central Florida University",
         "description": "We are so busy watching out for what's just ahead of us that we don't take the time to enjoy where we are."
       }
     ]

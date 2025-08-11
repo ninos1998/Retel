@@ -1,7 +1,6 @@
 import { NgModule } from '@angular/core';
 import { RouterModule, Routes } from '@angular/router';
 import { route } from '@shared/constants';
-
 import { AboutUs1Component } from '@components/pages/about/about-us1/about-us1.component';
 import { ServicesComponent } from '@components/pages/services/services.component';
 import { FaqComponent } from '@components/pages/faq/faq.component';
