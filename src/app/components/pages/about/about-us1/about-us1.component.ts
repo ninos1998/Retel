@@ -5,6 +5,7 @@ import { Team3Component } from '@sections/about/team3/team3.component';
 import { Story1Component } from '@sections/home/home3/story1/story1.component';
 import { PagesService } from '@services/pages.service';
 import { HomeService } from '@services/home.service';
+import { OurValue1Component } from '@components/page_sections/home/home1/our-value1/our-value1.component';
 
 /**
  * Defines functional view for About-Us page.
@@ -18,7 +19,8 @@ import { HomeService } from '@services/home.service';
     About3Component,
     Specializations4Component,
     Team3Component,
-    Story1Component
+    Story1Component,
+    OurValue1Component
   ]
 })
 export class AboutUs1Component {
@@ -31,7 +33,7 @@ export class AboutUs1Component {
 
   _data = new PagesService().getAboutData();
 
-    _data2 = new HomeService().getHome2Data();
+  _data2 = new HomeService().getHome2Data();
   
 
 }

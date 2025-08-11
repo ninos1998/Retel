@@ -2013,52 +2013,222 @@
 
       {
         "category": "cat-2",
-        "image": "assets/images/projects/portrait/pic2.jpg",
-        "linkImage": "assets/images/projects/portrait/pic9.jpg",
-        "title": "Central City Building",
-        "description": "We are so busy watching out for what's just ahead of us that we don't take the time to enjoy where we are."
-      },
-      {
-        "category": "cat-3",
-        "image": "assets/images/projects/portrait/pic3.jpg",
-        "linkImage": "assets/images/projects/portrait/pic6.jpg",
-        "title": "Nathan Brooke House",
-        "description": "We are so busy watching out for what's just ahead of us that we don't take the time to enjoy where we are."
-      },
-      {
-        "category": "cat-4",
-        "image": "assets/images/projects/portrait/pic4.jpg",
-        "linkImage": "assets/images/projects/portrait/pic5.jpg",
-        "title": "Metropolitan Museum",
-        "description": "We are so busy watching out for what's just ahead of us that we don't take the time to enjoy where we are."
-      },
-      {
-        "category": "cat-5",
-        "image": "assets/images/projects/portrait/pic5.jpg",
-        "linkImage": "assets/images/projects/portrait/pic7.jpg",
-        "title": "Art Family Residence",
-        "description": "We are so busy watching out for what's just ahead of us that we don't take the time to enjoy where we are."
-      },
-      {
-        "category": "cat-4",
-        "image": "assets/images/projects/portrait/pic6.jpg",
-        "linkImage": "assets/images/projects/portrait/pic8.jpg",
-        "title": "Office Partition Walls",
-        "description": "We are so busy watching out for what's just ahead of us that we don't take the time to enjoy where we are."
-      },
-      {
-        "category": "cat-3",
-        "image": "assets/images/projects/portrait/pic7.jpg",
-        "linkImage": "assets/images/projects/portrait/pic11.jpg",
-        "title": "Glass Office Screen",
-        "description": "We are so busy watching out for what's just ahead of us that we don't take the time to enjoy where we are."
+        "image": "assets/images/logo/sonede.png",
+        "linkImage": "assets/images/logo/sonede.png",
+        "title": "SONEDE",
+        "description": "Projet d'amélioration de l'Alimentation en eau potable du complexe TEBOURBA-JEDAIDA, Gouvernorat de Manouba."
       },
       {
         "category": "cat-2",
-        "image": "assets/images/projects/portrait/pic8.jpg",
-        "linkImage": "assets/images/projects/portrait/pic12.jpg",
-        "title": "State Hermitage Museum",
-        "description": "We are so busy watching out for what's just ahead of us that we don't take the time to enjoy where we are."
+        "image": "assets/images/logo/sonede.png",
+        "linkImage": "assets/images/logo/sonede.png",
+        "title": "SONEDE",
+        "description": "Projet d’amélioration de l’alimentation en eau potable du complexe geremda- Gouvernerat de sfax."
+      },
+      {
+        "category": "cat-2",
+        "image": "assets/images/logo/hydrokast.png",
+        "linkImage": "assets/images/logo/hydrokast.png",
+        "title": "HYDROKARST",
+        "description": "Travaux de réhabilitation et de modernisation de la centrale hydroélectrique barrage de Bou Heurtma (Capacité : 3MW)"
+      },
+      {
+        "category": "cat-2",
+        "image": "assets/images/logo/hydrokast.png",
+        "linkImage": "assets/images/logo/hydrokast.png",
+        "title": "HYDROKARST",
+        "description": "Projet de réhabilitation du barrage d’El AROUSSIA (Capacité : 4,8MW)"
+      },
+      {
+        "category": "cat-2",
+        "image": "assets/images/logo/hydrokast.png",
+        "linkImage": "assets/images/logo/hydrokast.png",
+        "title": "SONEDE",
+        "description": "Projet d’amélioration du taux de desserte en eau potable dans le milieu rural du gouvernorat de SFAX SUD, TYNA, MAHRES, AGAREB, GRAIBA, SKHIRA, BIR ALI"
+      },
+      {
+        "category": "cat-2",
+        "image": "assets/images/logo/muhrf.png",
+        "linkImage": "assets/images/logo/muhrf.png",
+        "title": "MUHRF",
+        "description": "Aménagement et de construction du bassin de rétention, d’ouvrages d’amenée des eaux y compris les démolitions diverses et le ramassage des ordures ; de construction de l’ouvrage d’écrêtement du bassin (2136 ml de dalots) ; d’aménagement de la voirie y compris l’éclairage de la zone Agoè Houmbi a Lomé"
+      },
+      {
+        "category": "cat-2",
+        "image": "assets/images/logo/ONEA.png",
+        "linkImage": "assets/images/logo/ONEA.png",
+        "title": "ONEA",
+        "description": "PROJET D'ALIMENTATION DURABLE ET EQUITABLE DE L'ACCES A L'EAU POTABLE PAR DES SYSTEMES D'AEP MULTI-LOCALITES (PADEP-SML). Réalisation de la production du refoulement du stockage et des réseaux primaires d système d'Approvissionnement en Eau Potable Multi-Localités de Kouka-Ouest dans les Régions de la Boucle du Mouhoun et des Hauts-Bassins - Lot 3"
+      },
+      {
+        "category": "cat-2",
+        "image": "assets/images/logo/somapep.png",
+        "linkImage": "assets/images/logo/somapep.png",
+        "title": "SOMAPEP",
+        "description": "TRAVAUX DE FOURNITURE ET POSE DE 98 KM DE CANALISATIONS ET DE REALISATION DE 188 BORNES FONTAINES "
+      },
+      {
+        "category": "cat-3",
+        "image": "assets/images/logo/onas.jpeg",
+        "linkImage": "assets/images/logo/onas.jpeg",
+        "title": "ONAS",
+        "description": "Transport et pose de conduites et construction d’ouvrages de génie civil"
+      },
+      {
+        "category": "cat-3",
+        "image": "assets/images/logo/Amenhyd.png",
+        "linkImage": "assets/images/logo/Amenhyd.png",
+        "title": "AMENHYD",
+        "description": "La construction d’une station d’épuration (331.000 Eq. Hab. 60.000 m3/j) sur le site du projet situé à Ghardaïa - M’Zab"
+      },
+      {
+        "category": "cat-3",
+        "image": "assets/images/logo/hayatkom.png",
+        "linkImage": "assets/images/logo/onas.jpeg",
+        "title": "HAYATCOM",
+        "description": "LA MODERNISATION DE LA CHAINE DE TARNSFERT DES EAUX TRAITES DEPUIS LA STATION D'EPURATION DE REGHAÏA JUSQU'A LA MER (REGHAÏA ALGERIE)"
+      },
+      {
+        "category": "cat-3",
+        "image": "assets/images/logo/onas.jpeg",
+        "linkImage": "assets/images/logo/onas.jpeg",
+        "title": "ONAS",
+        "description": "Travaux De Construction D’une Station D’épuration Enfidha/Hergla Et Système D'interconnexion (Transfert De Boues, Des Eaux Brutes Et Des Eaux Epurées) : Génie Civil Et Equipement"
+      },
+      {
+        "category": "cat-3",
+        "image": "assets/images/logo/ANPT.png",
+        "linkImage": "assets/images/logo/ANPT.png",
+        "title": "ANPT",
+        "description": "Travaux de construction d'un système d'épuration des eaux usées domestiques à Ganvié au Bénin"
+      },
+
+      {
+        "category": "cat-4",
+        "image": "assets/images/logo/steg.png",
+        "linkImage": "assets/images/projects/portrait/pic5.jpg",
+        "title": "STEG",
+        "description": "LOT 1 : La Fourniture de l'ensemble des équipements et l'exécution des travaux de pose et des prestations nécessaires à la construction, aux essais et à la mise en service du gazoduc TUNIS-MORNAGUIA-MABTOUH et ses ouvrages annexes."
+      },
+      {
+        "category": "cat-4",
+        "image": "assets/images/logo/steg.png",
+        "linkImage": "assets/images/projects/portrait/pic5.jpg",
+        "title": "STEG",
+        "description": "LOT 2 : La Fourniture de l'ensemble des équipements et l'exécution des travaux de pose et des prestations nécessaires à la construction, aux essais et à la mise en service du gazoduc TUNIS-Beja et ses ouvrages annexes."
+      },
+      {
+        "category": "cat-4",
+        "image": "assets/images/logo/etap.png",
+        "linkImage": "assets/images/projects/portrait/pic5.jpg",
+        "title": "ETAP",
+        "description": "Projet GAZ TATAOUINE - PIPES. 103km Conduite 8"
+      },
+      {
+        "category": "cat-4",
+        "image": "assets/images/logo/steg.png",
+        "linkImage": "assets/images/projects/portrait/pic5.jpg",
+        "title": "STEG",
+        "description": "Gazoduc Gabès-Zarzis-Djerba : Conception, fourniture, construction et mise en service de 59 km de gazoduc de 8 pouces et ses installations annexes "
+      },
+      {
+        "category": "cat-4",
+        "image": "assets/images/logo/steg.png",
+        "linkImage": "assets/images/projects/portrait/pic5.jpg",
+        "title": "STEG",
+        "description": "Alimentation en gaz naturel des régions de Mjez-Elbeb, Testour et Ain Drahim: Conception, fourniture, construction et mise en service de 24 km de gazoduc de 8 pouces et ses installations annexes "
+      },
+      {
+        "category": "cat-4",
+        "image": "assets/images/logo/steg.png",
+        "linkImage": "assets/images/projects/portrait/pic5.jpg",
+        "title": "STEG",
+        "description": "Alimentation en gaz naturel des régions de Gobollat, Bouarada et Gaafour: Conception, fourniture, construction et mise en service de 74 km de gazoduc de 8 pouces et ses installations annexes"
+      },
+      {
+        "category": "cat-4",
+        "image": "assets/images/logo/steg.png",
+        "linkImage": "assets/images/projects/portrait/pic5.jpg",
+        "title": "STEG",
+        "description": "Alimentation en gaz naturel des régions de Teborsok et Krib: Conception, fourniture, construction et mise en service de 36 km de gazoduc de 8 pouces et ses installations annexes "
+      },
+      {
+        "category": "cat-4",
+        "image": "assets/images/logo/steg.png",
+        "linkImage": "assets/images/projects/portrait/pic5.jpg",
+        "title": "STEG",
+        "description": "Alimentation en gaz naturel des régions du Nord-Ouest tunisien (Partie II : Béja-Dahmani): Conception, fourniture, construction et mise en service de 117 km de gazoduc de 12 pouces et ses installations annexes, incluant fibre optique, systèmes de sécurité et de contrôle SCADA "
+      },
+      {
+        "category": "cat-4",
+        "image": "assets/images/logo/steg.png",
+        "linkImage": "assets/images/projects/portrait/pic5.jpg",
+        "title": "STEG",
+        "description": "Alimentation en gaz naturel des régions de Teborsok et Krib: Conception, fourniture, construction et mise en service de 36 km de gazoduc de 8 pouces et ses installations annexes "
+      },
+      {
+        "category": "cat-4",
+        "image": "assets/images/logo/steg.png",
+        "linkImage": "assets/images/projects/portrait/pic5.jpg",
+        "title": "STEG",
+        "description": "Alimentation en gaz naturel de la commune de Kébili: Étude, fourniture et construction de 97 km de gazoduc de 12 pouces et ses ouvrages annexes "
+      },
+      {
+        "category": "cat-5",
+        "image": "assets/images/logo/jnaynet.png",
+        "linkImage": "assets/images/projects/portrait/pic5.jpg",
+        "title": "JNAYNET",
+        "description": "Etude, Fourniture et Travaux de construction d'ensemble immobilier a usage d'ahabitat (JNAYNET EL WARD 900 APPARTEMENTS)"
+      },
+      {
+        "category": "cat-5",
+        "image": "assets/images/logo/jupiter.png",
+        "linkImage": "assets/images/projects/portrait/pic5.jpg",
+        "title": "JUPITER",
+        "description": "Etude, fourniture et travaux de construction de 138 Villa très Haut Standing  'MA VILLA 138'"
+      },
+      {
+        "category": "cat-6",
+        "image": "assets/images/logo/ooredoo.png",
+        "linkImage": "assets/images/projects/portrait/pic5.jpg",
+        "title": "OOREDOO",
+        "description": "Déploiement de projets de Fibre Optique (Backbone, FTTN/LM, Zone FTTH et raccordement clients). 712km"
+      },
+      {
+        "category": "cat-6",
+        "image": "assets/images/logo/orange.png",
+        "linkImage": "assets/images/projects/portrait/pic5.jpg",
+        "title": "ORANGE",
+        "description": "Déploiement de projets de Fibre Optique (Backbone, FTTN/LM, Zone FTTH et raccordement clients). 124km"
+      },
+      {
+        "category": "cat-6",
+        "image": "assets/images/logo/ooredoo.png",
+        "linkImage": "assets/images/projects/portrait/pic5.jpg",
+        "title": "OOREDOO",
+        "description": "Déploiement de projets de Fibre Optique (Backbone, FTTN/LM, Zone FTTH et raccordement clients). 640km"
+      },
+      {
+        "category": "cat-6",
+        "image": "assets/images/logo/orange.png",
+        "linkImage": "assets/images/projects/portrait/pic5.jpg",
+        "title": "ORANGE",
+        "description": "Déploiement de projets de Fibre Optique (Backbone, FTTN/LM, Zone FTTH et raccordement clients). 97km"
+      },
+
+      {
+        "category": "cat-6",
+        "image": "assets/images/logo/orange.png",
+        "linkImage": "assets/images/projects/portrait/pic5.jpg",
+        "title": "ORANGE",
+        "description": " Déploiement de projets de Fibre Optique (Backbone, FTTN/LM, Zone FTTH et raccordement clients). 148KM "
+      },
+      {
+        "category": "cat-6",
+        "image": "assets/images/logo/ooredoo.png",
+        "linkImage": "assets/images/projects/portrait/pic5.jpg",
+        "title": "OOREDOO",
+        "description": "Déploiement de projets de Fibre Optique (Backbone, FTTN/LM, Zone FTTH et raccordement clients). 640KM + (1128KM Maintenance)"
       }
     ]
   },
