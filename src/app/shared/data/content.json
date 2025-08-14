@@ -43,16 +43,16 @@
       "video": "https://player.vimeo.com/video/34741214?color=ffffff&amp;title=0&amp;byline=0&amp;portrait=0",
       "facts": [
         {
-          "figure": "450",
-          "title": "Active Experts"
+          "figure": "350",
+          "title": "RH"
         },
         {
-          "figure": "670",
-          "title": "Satisfied Clients"
+          "figure": "180",
+          "title": "engins de notre parc"
         },
         {
-          "figure": "1500",
-          "title": "Project Complete"
+          "figure": "50",
+          "title": "Projets Complétés"
         }
       ],
       "experience": "15",
@@ -81,127 +81,664 @@
     },
     "services": [
       {
-        "title": "Fiabilité\net qualité 00000",
         "serial": "1",
         "icon": "assets/images/icon/crane-1.png",
-        "description": ""
+        "title": "Fiabilité et qualité",
+        "description": "Nous construisons pour durer, en accordant une importance primordiale à la fiabilité et à la qualité dans chacune de nos réalisations."
       },
       {
-        "title": "Building \nRenovation",
         "serial": "2",
         "icon": "assets/images/icon/renovation.png",
-        "description": "lorem Ipsum available, but the majority have suffered alterati on in some form, by ious by accident."
+        "title": "Esprit d’innovation",
+        "description": "L’innovation guide notre développement, offrant à nos partenaires et à notre environnement le meilleur de notre savoir-faire."
       },
       {
-        "title": "Building \nMaintenance",
         "serial": "3",
         "icon": "assets/images/icon/toolbox.png",
-        "description": "lorem Ipsum available, but the majority have suffered alterati on in some form, by ious by accident."
+        "title": "Respect des engagements",
+        "description": "Nous tenons nos engagements avec rigueur, renforçant ainsi notre réputation dans un secteur exigeant et compétitif."
       },
       {
-        "title": "Architecture \nDesign",
         "serial": "4",
         "icon": "assets/images/icon/compass.png",
-        "description": "lorem Ipsum available, but the majority have suffered alterati on in some form, by ious by accident."
+        "title": "Responsabilité socio-environnementale",
+        "description": "Nous plaçons nos équipes et nos communautés au cœur de nos actions, agissant chaque jour avec responsabilité et durabilité."
       }
     ],
     "projects": [
       {
-        "category": "cat-2",
-        "image": "assets/images/projects/portrait/pic1.jpg",
-        "title": "Chair Furniture",
-        "place": "Muscat, Sultanate of Oman"
-      },
-      {
-        "category": "cat-2",
-        "image": "assets/images/projects/portrait/pic2.jpg",
-        "title": "Furniture",
-        "place": "North House"
-      },
-      {
-        "category": "cat-6",
-        "image": "assets/images/projects/portrait/pic3.jpg",
-        "title": "Living room",
-        "place": "Aqaba, Jordan"
-      },
-      {
-        "category": "cat-6",
-        "image": "assets/images/projects/portrait/pic4.jpg",
-        "title": "Dream Workspace",
-        "place": "Perth, Australia"
-      },
-      {
-        "category": "cat-3",
-        "image": "assets/images/projects/portrait/pic5.jpg",
-        "title": "Decore",
-        "place": "Aqaba, Jordan"
-      },
-      {
-        "category": "cat-3",
-        "image": "assets/images/projects/portrait/pic6.jpg",
-        "title": "Modern Decoration",
-        "place": "Muscat, Sultanate of Oman"
-      },
-      {
         "category": "cat-1",
-        "image": "assets/images/projects/portrait/pic7.jpg",
-        "title": "Bathroom",
-        "place": "North House"
+        "image": "assets/images/logo/aru.png",
+        "linkImage": "assets/images/logo/aru.png",
+        "title": "ARRU",
+        "description": "Projets de voirie, assainissement, drainage des eaux pluviales, aménagement de quartiers et éclairage public, réalisés dans plusieurs régions de Tunisie en partenariat avec l’ARRU.",
+        "projectDetail": {
+          "images": [
+            {
+              "image": "assets/images/projects/portrait/pic7.jpg"
+            },
+            {
+              "image": "assets/images/projects/portrait/pic4.jpg"
+            },
+            {
+              "image": "assets/images/projects/portrait/pic5.jpg"
+            }
+          ],
+          "date": "July 10, 2025",
+          "client": "RETEL en partenariat avec l’ARRU",
+          "type": "Construction, Aménagement urbain",
+          "location": "Tunisie",
+          "year": "2025",
+          "video": {
+            "thumb": "http://i3.ytimg.com/vi/s3A7AK1K2hc/maxresdefault.jpg",
+            "link": "https://www.youtube.com/watch?v=s3A7AK1K2hc"
+          },
+          "title": "Projets ARRU - RETEL",
+          "description": "Les projets réalisés comprennent :\n- Voirie, assainissement des eaux usées, drainage des eaux pluviales et aménagement d’un terrain de quartier dans la zone de Bhar Lazrag (Marsa-Tunis).\n- Travaux de voirie, eau potable, drainage des eaux pluviales et éclairage public dans les quartiers Mekki Suissi, El Jadid, Majless El Wilaya et Khatab à Naassan (Ben Arous).\n- Travaux de réhabilitation du quartier Ennajah 1, Menzel Bourguiba.\n- Travaux de voirie, drainage des eaux pluviales et assainissement dans la zone de Bhar Lazrag – Marsa Tunis.\n- Travaux de voirie, éclairage public et aménagement d’un terrain du quartier Amri – El Hafiene – Trabelsi, Fouchana.\n- Travaux de voirie, drainage d’eau pluviale, assainissement des eaux usées, alimentation en eau potable et éclairage public dans le quartier Essaltnia, commune Sakiét Eddayer, gouvernorat de Sfax.\n- Travaux de voirie, drainage d’eau pluviale, assainissement des eaux usées et alimentation en eau potable dans le quartier Ezzitouna, commune Tejerouine, gouvernorat du Kef.\n- Travaux de voirie, drainage d’eau pluviale, assainissement des eaux usées, alimentation en eau potable et éclairage public dans le quartier Zanket El Msalla (Zone Cimer), commune Sakiét Eddayer, gouvernorat de Sfax."
+        }
       },
       {
-        "category": "cat-6",
-        "image": "assets/images/projects/pic-l-5.jpg",
-        "title": "Lamp decoration",
-        "place": "Aqaba, Jordan"
-      },
-      {
-        "category": "cat-5",
-        "image": "assets/images/projects/pic-1.jpg",
-        "title": "Building house",
-        "place": "Ultanate of Oman"
+        "category": "cat-2",
+        "image": "assets/images/logo/sonede.png",
+        "linkImage": "assets/images/logo/sonede.png",
+        "title": "SONEDE",
+        "description": "Ensemble de projets d’amélioration de l’alimentation en eau potable dans plusieurs régions de Tunisie, visant à renforcer l’accès à l’eau pour les zones urbaines et rurales.",
+        "projectDetail": {
+          "images": [
+            {
+              "image": "assets/images/projects/portrait/pic7.jpg"
+            },
+            {
+              "image": "assets/images/projects/portrait/pic4.jpg"
+            },
+            {
+              "image": "assets/images/projects/portrait/pic5.jpg"
+            }
+          ],
+          "date": "January 20, 2026",
+          "client": "RETEL en partenariat avec la SONEDE et Hydrokast",
+          "type": "Alimentation en eau potable, Réseaux hydrauliques",
+          "location": "Tunisie",
+          "year": "2026",
+          "video": {
+            "thumb": "http://i3.ytimg.com/vi/s3A7AK1K2hc/maxresdefault.jpg",
+            "link": "https://www.youtube.com/watch?v=s3A7AK1K2hc"
+          },
+          "title": "Projets SONEDE - Amélioration de l’alimentation en eau potable",
+          "description": "Ces projets réalisés par RETEL en partenariat avec la SONEDE et Hydrokast visent à améliorer et sécuriser l’alimentation en eau potable dans différentes zones de Tunisie :\n\n- **Complexe Tebourba-Jedaida**, gouvernorat de Manouba : travaux d’amélioration et de renforcement du réseau pour répondre à la demande croissante.\n- **Complexe Geremda**, gouvernorat de Sfax : optimisation des infrastructures d’eau potable pour une desserte plus efficace.\n- **Milieu rural du gouvernorat de Sfax Sud** (Tyna, Mahres, Agareb, Graïba, Skhira, Bir Ali) : projets pour accroître le taux de desserte en eau potable, réduire les coupures et améliorer la qualité du service."
+        }
       },
       {
         "category": "cat-4",
-        "image": "assets/images/projects/pic-2.jpg",
-        "title": "Spa residence",
-        "place": "Perth, Australia"
+        "image": "assets/images/logo/steg.png",
+        "linkImage": "assets/images/projects/portrait/pic5.jpg",
+        "title": "STEG",
+        "description": "Ensemble de projets de gazoducs réalisés pour le compte de la STEG (Société Tunisienne de l’Électricité et du Gaz), couvrant plusieurs régions de la Tunisie.",
+        "projectDetail": {
+          "images": [
+            { "image": "assets/images/projects/portrait/pic7.jpg" },
+            { "image": "assets/images/projects/portrait/pic4.jpg" },
+            { "image": "assets/images/projects/portrait/pic5.jpg" }
+          ],
+          "date": "July 10, 2025",
+          "client": "STEG - Société Tunisienne de l’Électricité et du Gaz",
+          "type": "Gazoduc, Génie Civil",
+          "location": "Tunisie",
+          "year": "2025",
+          "video": {
+            "thumb": "http://i3.ytimg.com/vi/s3A7AK1K2hc/maxresdefault.jpg",
+            "link": "https://www.youtube.com/watch?v=s3A7AK1K2hc"
+          },
+          "title": "Projets de Gazoducs - STEG",
+          "description": "• LOT 1 : Fourniture et pose du gazoduc Tunis-Mornaguia-Mabtouh et ouvrages annexes.\n• LOT 2 : Fourniture et pose du gazoduc Tunis-Béja et ouvrages annexes.\n• Gazoduc Gabès-Zarzis-Djerba : Conception, fourniture, construction et mise en service de 59 km de gazoduc de 8 pouces.\n• Alimentation en gaz naturel des régions de Mjez-Elbeb, Testour et Ain Drahim : 24 km de gazoduc de 8 pouces.\n• Alimentation des régions de Gobollat, Bouarada et Gaafour : 74 km de gazoduc de 8 pouces.\n• Alimentation des régions de Teborsok et Krib : 36 km de gazoduc de 8 pouces.\n• Alimentation des régions du Nord-Ouest (Partie II : Béja-Dahmani) : 117 km de gazoduc de 12 pouces incluant fibre optique et SCADA.\n• Alimentation de la commune de Kébili : Étude, fourniture et construction de 97 km de gazoduc de 12 pouces."
+        }
+      },
+      {
+        "category": "cat-5",
+        "image": "assets/images/logo/jnaynet.png",
+        "linkImage": "assets/images/projects/portrait/pic5.jpg",
+        "title": "JNAYNET",
+        "description": "Étude, fourniture et travaux de construction d'ensemble immobilier à usage d'habitat (JNAYNET EL WARD 900 appartements).",
+        "projectDetail": {
+          "images": [
+            { "image": "assets/images/projects/portrait/pic7.jpg" },
+            { "image": "assets/images/projects/portrait/pic4.jpg" },
+            { "image": "assets/images/projects/portrait/pic5.jpg" }
+          ],
+          "date": "July 10, 2025",
+          "client": "JNAYNET",
+          "type": "Immobilier, Construction",
+          "location": "Lieu non spécifié",
+          "year": "2025",
+          "video": {
+            "thumb": "http://i3.ytimg.com/vi/s3A7AK1K2hc/maxresdefault.jpg",
+            "link": "https://www.youtube.com/watch?v=s3A7AK1K2hc"
+          },
+          "title": "Projet JNAYNET EL WARD",
+          "description": "Construction d'un ensemble immobilier de 900 appartements destiné à l’habitat, comprenant toutes les phases d’étude, fourniture et travaux."
+        }
+      },
+      {
+        "category": "cat-1",
+        "image": "assets/images/logo/afh.jpg",
+        "linkImage": "assets/images/logo/afh.jpg",
+        "title": "AFH",
+        "description": "Travaux des réseaux primaires du lotissement 'Les Jardins de Tunis' Lot 4.",
+        "projectDetail": {
+          "images": [
+            {
+              "image": "assets/images/projects/portrait/pic7.jpg"
+            },
+            {
+              "image": "assets/images/projects/portrait/pic4.jpg"
+            },
+            {
+              "image": "assets/images/projects/portrait/pic5.jpg"
+            }
+          ],
+          "date": "September 12, 2025",
+          "client": "RETEL en partenariat avec l’AFH",
+          "type": "Construction, Réseaux primaires",
+          "location": "Lotissement 'Les Jardins de Tunis', Tunisie",
+          "year": "2025",
+          "video": {
+            "thumb": "http://i3.ytimg.com/vi/s3A7AK1K2hc/maxresdefault.jpg",
+            "link": "https://www.youtube.com/watch?v=s3A7AK1K2hc"
+          },
+          "title": "Réseaux primaires du lotissement 'Les Jardins de Tunis' - Lot 4",
+          "description": "Ce projet concerne la réalisation des réseaux primaires du lotissement 'Les Jardins de Tunis' Lot 4, comprenant la mise en place des réseaux d’assainissement, d’alimentation en eau potable, de drainage des eaux pluviales et de voiries principales. L’objectif est d’assurer les infrastructures essentielles permettant le développement du lotissement dans des conditions optimales de qualité et de durabilité."
+        }
+      },
+      {
+        "category": "cat-1",
+        "image": "assets/images/logo/dhu.png",
+        "linkImage": "assets/images/logo/dhu.png",
+        "title": "DHU",
+        "description": "Projets de protection contre les inondations dans plusieurs villes tunisiennes, visant à sécuriser les zones urbaines et réduire les risques hydrauliques.",
+        "projectDetail": {
+          "images": [
+            {
+              "image": "assets/images/projects/portrait/pic7.jpg"
+            },
+            {
+              "image": "assets/images/projects/portrait/pic4.jpg"
+            },
+            {
+              "image": "assets/images/projects/portrait/pic5.jpg"
+            }
+          ],
+          "date": "October 20, 2025",
+          "client": "RETEL en partenariat avec la DHU",
+          "type": "Travaux hydrauliques, Protection urbaine",
+          "location": "Tunisie",
+          "year": "2025",
+          "video": {
+            "thumb": "http://i3.ytimg.com/vi/s3A7AK1K2hc/maxresdefault.jpg",
+            "link": "https://www.youtube.com/watch?v=s3A7AK1K2hc"
+          },
+          "title": "Projets de protection contre les inondations - DHU",
+          "description": "Les projets réalisés comprennent :\n- Travaux de protection contre les inondations de la ville de Sfax, incluant la mise en place de réseaux de drainage, de bassins de rétention et de canalisations renforcées.\n- Travaux de protection contre les inondations des villes de Hammamet et Nabeul, avec des dispositifs de régulation des flux pluviaux et des infrastructures hydrauliques adaptées aux zones côtières.\nCes projets visent à réduire les risques hydrauliques, protéger les populations et préserver les infrastructures stratégiques."
+        }
+      },
+      {
+        "category": "cat-1",
+        "image": "assets/images/logo/simau.png",
+        "linkImage": "assets/images/logo/simau.png",
+        "title": "SIMAU",
+        "description": "Travaux de viabilisation de la cité BETHEL (GCITT) à Ouedo dans la commune d’Abomey-Calavi.",
+        "projectDetail": {
+          "images": [
+            {
+              "image": "assets/images/projects/portrait/pic7.jpg"
+            },
+            {
+              "image": "assets/images/projects/portrait/pic4.jpg"
+            },
+            {
+              "image": "assets/images/projects/portrait/pic5.jpg"
+            }
+          ],
+          "date": "December 5, 2025",
+          "client": "RETEL en partenariat avec la SIMAU",
+          "type": "Construction, Viabilisation urbaine",
+          "location": "Ouedo, Commune d’Abomey-Calavi, Bénin",
+          "year": "2025",
+          "video": {
+            "thumb": "http://i3.ytimg.com/vi/s3A7AK1K2hc/maxresdefault.jpg",
+            "link": "https://www.youtube.com/watch?v=s3A7AK1K2hc"
+          },
+          "title": "Travaux de viabilisation de la cité BETHEL (GCITT)",
+          "description": "Ce projet consiste à réaliser les travaux de viabilisation de la cité BETHEL (GCITT) située à Ouedo, dans la commune d’Abomey-Calavi. Les travaux incluent l’ouverture et l’aménagement des voiries, la mise en place des réseaux d’assainissement, d’eau potable, d’électricité et de drainage des eaux pluviales, ainsi que la préparation des terrains pour accueillir les futures constructions. L’objectif est de créer une infrastructure urbaine durable et fonctionnelle pour le développement résidentiel et économique de la zone."
+        }
+      },
+      {
+        "category": "cat-1",
+        "image": "assets/images/logo/sirat.png",
+        "linkImage": "assets/images/logo/sirat.png",
+        "title": "SIRAT",
+        "description": "Programme d’assainissement pluvial des villes secondaires (PAPVS-2) – travaux de construction de collecteurs d’assainissement pluvial et aménagement de voies connexes dans la ville de Lokossa (Lot PAPVS-2T05).",
+        "projectDetail": {
+          "images": [
+            {
+              "image": "assets/images/projects/portrait/pic7.jpg"
+            },
+            {
+              "image": "assets/images/projects/portrait/pic4.jpg"
+            },
+            {
+              "image": "assets/images/projects/portrait/pic5.jpg"
+            }
+          ],
+          "date": "March 12, 2026",
+          "client": "RETEL en partenariat avec SIRAT",
+          "type": "Assainissement pluvial, Aménagement urbain",
+          "location": "Lokossa, Bénin",
+          "year": "2026",
+          "video": {
+            "thumb": "http://i3.ytimg.com/vi/s3A7AK1K2hc/maxresdefault.jpg",
+            "link": "https://www.youtube.com/watch?v=s3A7AK1K2hc"
+          },
+          "title": "Programme d’assainissement pluvial des villes secondaires (PAPVS-2) - Lokossa",
+          "description": "Ce projet fait partie de la deuxième phase du Programme d’assainissement pluvial des villes secondaires (PAPVS-2). Il consiste à construire des collecteurs d’assainissement pluvial et à aménager des voies connexes dans la ville de Lokossa, afin de réduire les risques d’inondation et d’améliorer la mobilité urbaine. Les travaux comprennent la mise en place de réseaux de drainage, la construction d’ouvrages hydrauliques, la réhabilitation de chaussées et l’intégration d’infrastructures connexes pour un développement urbain durable."
+        }
+      },
+      {
+        "category": "cat-1",
+        "image": "assets/images/logo/scit.jpeg",
+        "linkImage": "assets/images/logo/scit.jpeg",
+        "title": "SCIT",
+        "description": "Travaux d’aménagement de la zone industrielle de Gare Mhamid à Tejerouine.",
+        "projectDetail": {
+          "images": [
+            {
+              "image": "assets/images/projects/portrait/pic7.jpg"
+            },
+            {
+              "image": "assets/images/projects/portrait/pic4.jpg"
+            },
+            {
+              "image": "assets/images/projects/portrait/pic5.jpg"
+            }
+          ],
+          "date": "August 05, 2025",
+          "client": "RETEL en partenariat avec la SCIT",
+          "type": "Construction, Aménagement industriel",
+          "location": "Zone industrielle de Gare Mhamid, Tejerouine, Tunisie",
+          "year": "2025",
+          "video": {
+            "thumb": "http://i3.ytimg.com/vi/s3A7AK1K2hc/maxresdefault.jpg",
+            "link": "https://www.youtube.com/watch?v=s3A7AK1K2hc"
+          },
+          "title": "Aménagement de la zone industrielle de Gare Mhamid",
+          "description": "Ce projet consiste en l’aménagement complet de la zone industrielle de Gare Mhamid à Tejerouine. Les travaux comprennent la mise en place des infrastructures routières, l’installation des réseaux d’assainissement et d’eau potable, la réalisation du drainage des eaux pluviales ainsi que l’éclairage public. L’objectif est de doter la région d’un espace industriel moderne et fonctionnel, favorisant le développement économique local."
+        }
+      },
+      {
+        "category": "cat-2",
+        "image": "assets/images/logo/hydrokast.png",
+        "linkImage": "assets/images/logo/hydrokast.png",
+        "title": "HYDROKARST",
+        "description": "Projets de réhabilitation et de modernisation d’infrastructures hydroélectriques en Tunisie, visant à optimiser la production et prolonger la durée de vie des barrages.",
+        "projectDetail": {
+          "images": [
+            {
+              "image": "assets/images/projects/portrait/pic7.jpg"
+            },
+            {
+              "image": "assets/images/projects/portrait/pic4.jpg"
+            },
+            {
+              "image": "assets/images/projects/portrait/pic5.jpg"
+            }
+          ],
+          "date": "March 15, 2026",
+          "client": "RETEL en partenariat avec HYDROKARST",
+          "type": "Hydroélectricité, Réhabilitation de barrages",
+          "location": "Tunisie",
+          "year": "2026",
+          "video": {
+            "thumb": "http://i3.ytimg.com/vi/s3A7AK1K2hc/maxresdefault.jpg",
+            "link": "https://www.youtube.com/watch?v=s3A7AK1K2hc"
+          },
+          "title": "Projets HYDROKARST - Modernisation des barrages hydroélectriques",
+          "description": "Ces projets ont pour objectif de moderniser et réhabiliter les infrastructures hydroélectriques tunisiennes :\n\n- **Centrale hydroélectrique du barrage de Bou Heurtma** (Capacité : 3 MW) : réhabilitation des équipements, mise à niveau des installations et optimisation de la production.\n- **Barrage d’El Aroussia** (Capacité : 4,8 MW) : travaux de modernisation et de renforcement pour améliorer l’efficacité énergétique et la sécurité de l’ouvrage."
+        }
+      },
+      {
+        "category": "cat-2",
+        "image": "assets/images/logo/muhrf.png",
+        "linkImage": "assets/images/logo/muhrf.png",
+        "title": "MUHRF",
+        "description": "Projet d’aménagement hydraulique et de construction d’infrastructures pour la gestion des eaux pluviales et l’amélioration de la voirie dans la zone Agoè Houmbi à Lomé.",
+        "projectDetail": {
+          "images": [
+            {
+              "image": "assets/images/projects/portrait/pic7.jpg"
+            },
+            {
+              "image": "assets/images/projects/portrait/pic4.jpg"
+            },
+            {
+              "image": "assets/images/projects/portrait/pic5.jpg"
+            }
+          ],
+          "date": "June 20, 2026",
+          "client": "RETEL en partenariat avec MUHRF",
+          "type": "Hydraulique urbaine, Voirie et éclairage public",
+          "location": "Agoè Houmbi, Lomé – Togo",
+          "year": "2026",
+          "video": {
+            "thumb": "http://i3.ytimg.com/vi/s3A7AK1K2hc/maxresdefault.jpg",
+            "link": "https://www.youtube.com/watch?v=s3A7AK1K2hc"
+          },
+          "title": "Projet MUHRF – Aménagement et gestion des eaux pluviales à Lomé",
+          "description": "Ce projet comprend :\n\n- **Construction du bassin de rétention** pour la régulation des eaux pluviales et prévention des inondations.\n- **Réalisation d’ouvrages d’amenée des eaux**, incluant 2136 mètres linéaires de dalots.\n- **Démolitions diverses** et **ramassage des déchets** pour assainir la zone.\n- **Construction de l’ouvrage d’écrêtement** pour la gestion des crues.\n- **Aménagement et modernisation de la voirie**, avec installation d’un système complet d’**éclairage public**.\n\nCes travaux visent à améliorer la résilience urbaine de la zone Agoè Houmbi et à protéger les populations contre les risques d’inondation."
+        }
+      },
+      {
+        "category": "cat-2",
+        "image": "assets/images/logo/ONEA.png",
+        "linkImage": "assets/images/logo/ONEA.png",
+        "title": "ONEA",
+        "description": "Projet d’alimentation durable et équitable en eau potable à travers la mise en place de systèmes AEP multi-localités dans les régions de la Boucle du Mouhoun et des Hauts-Bassins.",
+        "projectDetail": {
+          "images": [
+            {
+              "image": "assets/images/projects/portrait/pic7.jpg"
+            },
+            {
+              "image": "assets/images/projects/portrait/pic4.jpg"
+            },
+            {
+              "image": "assets/images/projects/portrait/pic5.jpg"
+            }
+          ],
+          "date": "April 18, 2026",
+          "client": "RETEL en partenariat avec ONEA",
+          "type": "Approvisionnement en eau potable, Réseaux hydrauliques",
+          "location": "Kouka-Ouest, Régions de la Boucle du Mouhoun et des Hauts-Bassins – Burkina Faso",
+          "year": "2026",
+          "video": {
+            "thumb": "http://i3.ytimg.com/vi/s3A7AK1K2hc/maxresdefault.jpg",
+            "link": "https://www.youtube.com/watch?v=s3A7AK1K2hc"
+          },
+          "title": "Projet ONEA – Alimentation en eau potable multi-localités",
+          "description": "Le **PADEP-SML** (Projet d'Alimentation Durable et Équitable en Eau Potable par des Systèmes d’AEP Multi-Localités) vise à améliorer l’accès à l’eau potable pour plusieurs communes, avec un impact direct sur la santé publique et le développement socio-économique.\n\nLes travaux réalisés dans le **Lot 3** incluent :\n\n- **Production** : forage et mise en place des installations de captage.\n- **Refoulement** : pompage et transfert de l’eau vers les zones de stockage.\n- **Stockage** : construction et mise en service de réservoirs d’eau.\n- **Réseaux primaires** : installation des conduites principales pour alimenter les différentes localités.\n\nCe projet contribue à réduire les inégalités d’accès à l’eau potable tout en assurant la durabilité des infrastructures."
+        }
+      },
+      {
+        "category": "cat-2",
+        "image": "assets/images/logo/somapep.png",
+        "linkImage": "assets/images/logo/somapep.png",
+        "title": "SOMAPEP",
+        "description": "Travaux d’extension et de renforcement des réseaux d’adduction en eau potable au Mali, incluant la pose de canalisations et l’installation de bornes fontaines.",
+        "projectDetail": {
+          "images": [
+            {
+              "image": "assets/images/projects/portrait/pic7.jpg"
+            },
+            {
+              "image": "assets/images/projects/portrait/pic4.jpg"
+            },
+            {
+              "image": "assets/images/projects/portrait/pic5.jpg"
+            }
+          ],
+          "date": "May 7, 2026",
+          "client": "RETEL en partenariat avec SOMAPEP",
+          "type": "Hydraulique urbaine, Réseaux d’eau potable",
+          "location": "Mali",
+          "year": "2026",
+          "video": {
+            "thumb": "http://i3.ytimg.com/vi/s3A7AK1K2hc/maxresdefault.jpg",
+            "link": "https://www.youtube.com/watch?v=s3A7AK1K2hc"
+          },
+          "title": "Projet SOMAPEP – Extension des réseaux d’eau potable au Mali",
+          "description": "Ce projet mené par **RETEL** et la **SOMAPEP** vise à améliorer la couverture en eau potable dans plusieurs zones urbaines et périurbaines du Mali. \n\nLes travaux comprennent :\n\n- **Fourniture et pose de 98 km de canalisations** pour l’adduction et la distribution d’eau.\n- **Installation de 188 bornes fontaines** pour améliorer l’accès à l’eau dans les quartiers défavorisés.\n\nCe chantier contribue à réduire la pénurie d’eau, à améliorer les conditions de vie des populations et à renforcer les infrastructures hydrauliques du pays."
+        }
+      },
+      {
+        "category": "cat-3",
+        "image": "assets/images/logo/Amenhyd.png",
+        "linkImage": "assets/images/logo/Amenhyd.png",
+        "title": "AMENHYD",
+        "description": "La construction d’une station d’épuration (331.000 Eq. Hab. 60.000 m3/j) sur le site du projet situé à Ghardaïa - M’Zab"
+      },
+      {
+        "category": "cat-3",
+        "image": "assets/images/logo/hayatkom.png",
+        "linkImage": "assets/images/logo/onas.jpeg",
+        "title": "HAYATCOM",
+        "description": "LA MODERNISATION DE LA CHAINE DE TARNSFERT DES EAUX TRAITES DEPUIS LA STATION D'EPURATION DE REGHAÏA JUSQU'A LA MER (REGHAÏA ALGERIE)"
+      },
+      {
+        "category": "cat-3",
+        "image": "assets/images/logo/onas.jpeg",
+        "linkImage": "assets/images/logo/onas.jpeg",
+        "title": "ONAS",
+        "description": "Une description globale des projets ONAS relatifs au transport de conduites, ouvrages de génie civil et stations d’épuration.",
+        "projectDetail": {
+          "images": [
+            { "image": "assets/images/projects/portrait/pic7.jpg" },
+            { "image": "assets/images/projects/portrait/pic4.jpg" },
+            { "image": "assets/images/projects/portrait/pic5.jpg" }
+          ],
+          "date": "July 10, 2025",
+          "client": "RETEL en partenariat avec ONAS",
+
+          "type": "Construction, Génie civil",
+          "location": "Mountain View CA 94043",
+          "year": "2025",
+          "video": {
+            "thumb": "http://i3.ytimg.com/vi/s3A7AK1K2hc/maxresdefault.jpg",
+            "link": "https://www.youtube.com/watch?v=s3A7AK1K2hc"
+          },
+          "title": "Projets ONAS",
+          "description": "• Transport et pose de conduites et construction d’ouvrages de génie civil.\n• Travaux de construction d’une station d’épuration à Enfidha/Hergla et système d'interconnexion (transfert de boues, des eaux brutes et des eaux épurées) : génie civil et équipement."
+        }
+      },
+      {
+        "category": "cat-3",
+        "image": "assets/images/logo/ANPT.png",
+        "linkImage": "assets/images/logo/ANPT.png",
+        "title": "ANPT",
+        "description": "Travaux de construction d'un système d'épuration des eaux usées domestiques à Ganvié, Bénin.",
+        "projectDetail": {
+          "images": [
+            {
+              "image": "assets/images/projects/portrait/pic7.jpg"
+            },
+            {
+              "image": "assets/images/projects/portrait/pic4.jpg"
+            },
+            {
+              "image": "assets/images/projects/portrait/pic5.jpg"
+            }
+          ],
+          "date": "January 18, 2026",
+          "client": "RETEL en partenariat avec l’ANPT",
+          "type": "Construction, Traitement des eaux",
+          "location": "Ganvié, Bénin",
+          "year": "2026",
+          "video": {
+            "thumb": "http://i3.ytimg.com/vi/s3A7AK1K2hc/maxresdefault.jpg",
+            "link": "https://www.youtube.com/watch?v=s3A7AK1K2hc"
+          },
+          "title": "Construction d’un système d’épuration des eaux usées domestiques - Ganvié",
+          "description": "Ce projet a pour objectif de mettre en place un système moderne et efficace d'épuration des eaux usées domestiques à Ganvié, Bénin. Les travaux comprennent la conception et la construction des bassins de traitement, l’installation des conduites de collecte et de transfert, ainsi que la mise en place des dispositifs de filtration et de traitement biologique. Ce système vise à améliorer la qualité de l’eau, protéger l’environnement et contribuer à la santé publique dans la région."
+        }
+      },
+
+      {
+        "category": "cat-4",
+        "image": "assets/images/logo/etap.png",
+        "linkImage": "assets/images/projects/portrait/pic5.jpg",
+        "title": "ETAP",
+        "description": "Projet GAZ TATAOUINE - PIPES. 103 km Conduite 8 pouces.",
+        "projectDetail": {
+          "images": [
+            { "image": "assets/images/projects/portrait/pic7.jpg" },
+            { "image": "assets/images/projects/portrait/pic4.jpg" },
+            { "image": "assets/images/projects/portrait/pic5.jpg" }
+          ],
+          "date": "July 10, 2025",
+          "client": "ETAP",
+          "type": "Gazoduc, Construction",
+          "location": "Tataouine, Tunisie",
+          "year": "2025",
+          "video": {
+            "thumb": "http://i3.ytimg.com/vi/s3A7AK1K2hc/maxresdefault.jpg",
+            "link": "https://www.youtube.com/watch?v=s3A7AK1K2hc"
+          },
+          "title": "Projet Gaz Tataouine",
+          "description": "Conception, fourniture et pose d’une conduite de gaz de 103 km de 8 pouces dans la région de Tataouine."
+        }
+      },
+      {
+        "category": "cat-5",
+        "image": "assets/images/logo/jupiter.png",
+        "linkImage": "assets/images/projects/portrait/pic5.jpg",
+        "title": "JUPITER",
+        "description": "Étude, fourniture et travaux de construction de 138 villas très haut standing 'MA VILLA 138'.",
+        "projectDetail": {
+          "images": [
+            { "image": "assets/images/projects/portrait/pic7.jpg" },
+            { "image": "assets/images/projects/portrait/pic4.jpg" },
+            { "image": "assets/images/projects/portrait/pic5.jpg" }
+          ],
+          "date": "July 10, 2025",
+          "client": "JUPITER",
+          "type": "Immobilier, Construction",
+          "location": "Lieu non spécifié",
+          "year": "2025",
+          "video": {
+            "thumb": "http://i3.ytimg.com/vi/s3A7AK1K2hc/maxresdefault.jpg",
+            "link": "https://www.youtube.com/watch?v=s3A7AK1K2hc"
+          },
+          "title": "Projet MA VILLA 138",
+          "description": "Construction de 138 villas très haut standing sous le nom 'MA VILLA 138', avec étude, fourniture et travaux complets."
+        }
+      },
+      {
+        "category": "cat-6",
+        "image": "assets/images/logo/orange.png",
+        "linkImage": "assets/images/projects/portrait/pic5.jpg",
+        "title": "ORANGE",
+        "description": "Projets de déploiement de fibre optique pour ORANGE couvrant Backbone, FTTN/LM, zones FTTH et raccordement clients.",
+        "projectDetail": {
+          "images": [
+            { "image": "assets/images/projects/portrait/pic7.jpg" },
+            { "image": "assets/images/projects/portrait/pic4.jpg" },
+            { "image": "assets/images/projects/portrait/pic5.jpg" }
+          ],
+          "date": "July 10, 2025",
+          "client": "ORANGE",
+          "type": "Télécommunications, Fibre Optique",
+          "location": "Tunisie",
+          "year": "2025",
+          "video": {
+            "thumb": "http://i3.ytimg.com/vi/s3A7AK1K2hc/maxresdefault.jpg",
+            "link": "https://www.youtube.com/watch?v=s3A7AK1K2hc"
+          },
+          "title": "Projets Fibre Optique ORANGE",
+          "description": "• Projet 1 : Déploiement de 124 km de fibre optique (Backbone, FTTN/LM, FTTH, raccordement clients).\n• Projet 2 : Déploiement de 97 km de fibre optique (Backbone, FTTN/LM, FTTH, raccordement clients).\n• Projet 3 : Déploiement de 148 km de fibre optique (Backbone, FTTN/LM, FTTH, raccordement clients)."
+        }
+      },
+      {
+        "category": "cat-6",
+        "image": "assets/images/logo/ooredoo.png",
+        "linkImage": "assets/images/projects/portrait/pic5.jpg",
+        "title": "OOREDOO",
+        "description": "Projets de déploiement de fibre optique pour OOREDOO couvrant Backbone, FTTN/LM, zones FTTH et raccordement clients.",
+        "projectDetail": {
+          "images": [
+            { "image": "assets/images/projects/portrait/pic7.jpg" },
+            { "image": "assets/images/projects/portrait/pic4.jpg" },
+            { "image": "assets/images/projects/portrait/pic5.jpg" }
+          ],
+          "date": "July 10, 2025",
+          "client": "OOREDOO",
+          "type": "Télécommunications, Fibre Optique",
+          "location": "Tunisie",
+          "year": "2025",
+          "video": {
+            "thumb": "http://i3.ytimg.com/vi/s3A7AK1K2hc/maxresdefault.jpg",
+            "link": "https://www.youtube.com/watch?v=s3A7AK1K2hc"
+          },
+          "title": "Projets Fibre Optique OOREDOO",
+          "description": "• Projet 1 : Déploiement de 712 km de fibre optique (Backbone, FTTN/LM, FTTH, raccordement clients).\n• Projet 2 : Déploiement de 640 km de fibre optique (Backbone, FTTN/LM, FTTH, raccordement clients).• Projet 3 : Déploiement de 640 km + 1128 km de maintenance fibre optique."
+        }
       }
     ],
     "blogs": [
       {
         "background": "",
-        "image": "assets/images/blog/latest-blog/pic1.jpg",
+        "image": "assets/images/moyens/bulldozer.jpg",
         "date": "14",
         "month": "April",
         "year": "2025",
         "author": "admin",
         "comments": "2",
-        "title": "Commercial design for project",
+        "title": "Bulldozer",
         "subtitle": "Which is the same as saying through shrinking from toil and pain."
       },
       {
         "background": "",
-        "image": "assets/images/blog/latest-blog/pic2.jpg",
+        "image": "assets/images/moyens/chargeuse.jpg",
         "date": "16",
         "month": "April",
         "year": "2025",
         "author": "admin",
         "comments": "2",
-        "title": "Our interior design prediction",
+        "title": "Chargeuse",
         "subtitle": "Today we can tell you, thanks to your passion, hard work creativity."
       },
       {
         "background": "",
-        "image": "assets/images/blog/latest-blog/pic3.jpg",
+        "image": "assets/images/moyens/dumper.jpg",
         "date": "18",
         "month": "April",
         "year": "2025",
         "author": "admin",
         "comments": "2",
-        "title": "Low cost interior designing ideas",
+        "title": "Dumper",
+        "subtitle": "Every pleasure is to be welcome every pain avoided. in certain."
+      },
+      {
+        "background": "",
+        "image": "assets/images/moyens/engin3.jpg",
+        "date": "18",
+        "month": "April",
+        "year": "2025",
+        "author": "admin",
+        "comments": "2",
+        "title": "Scraper",
+        "subtitle": "Every pleasure is to be welcome every pain avoided. in certain."
+      },
+      {
+        "background": "",
+        "image": "assets/images/moyens/mini chargeuse.jpg",
+        "date": "18",
+        "month": "April",
+        "year": "2025",
+        "author": "admin",
+        "comments": "2",
+        "title": "mini chargeuse",
+        "subtitle": "Every pleasure is to be welcome every pain avoided. in certain."
+      },
+      {
+        "background": "",
+        "image": "assets/images/moyens/tractopelle.jpg",
+        "date": "18",
+        "month": "April",
+        "year": "2025",
+        "author": "admin",
+        "comments": "2",
+        "title": "Tractopelle",
         "subtitle": "Every pleasure is to be welcome every pain avoided. in certain."
       }
     ],
+
     "testimonials": [
       {
         "image": "assets/images/testimonials/pic1.jpg",
@@ -1917,185 +2454,367 @@
         "image": "assets/images/logo/aru.png",
         "linkImage": "assets/images/logo/aru.png",
         "title": "ARRU",
-        "description": "Projet de voirie, d’assainissement des eaux usées, de drainage des eaux pluviales et d’aménagement d’un terrain de quartier dans la zone de BHAR LAZRAG (MARSA-TUNIS)"
+        "description": "Projets de voirie, assainissement, drainage des eaux pluviales, aménagement de quartiers et éclairage public, réalisés dans plusieurs régions de Tunisie en partenariat avec l’ARRU.",
+        "projectDetail": {
+          "images": [
+            {
+              "image": "assets/images/projects/portrait/pic7.jpg"
+            },
+            {
+              "image": "assets/images/projects/portrait/pic4.jpg"
+            },
+            {
+              "image": "assets/images/projects/portrait/pic5.jpg"
+            }
+          ],
+          "date": "July 10, 2025",
+          "client": "RETEL en partenariat avec l’ARRU",
+          "type": "Construction, Aménagement urbain",
+          "location": "Tunisie",
+          "year": "2025",
+          "video": {
+            "thumb": "http://i3.ytimg.com/vi/s3A7AK1K2hc/maxresdefault.jpg",
+            "link": "https://www.youtube.com/watch?v=s3A7AK1K2hc"
+          },
+          "title": "Projets ARRU - RETEL",
+          "description": "Les projets réalisés comprennent :\n- Voirie, assainissement des eaux usées, drainage des eaux pluviales et aménagement d’un terrain de quartier dans la zone de Bhar Lazrag (Marsa-Tunis).\n- Travaux de voirie, eau potable, drainage des eaux pluviales et éclairage public dans les quartiers Mekki Suissi, El Jadid, Majless El Wilaya et Khatab à Naassan (Ben Arous).\n- Travaux de réhabilitation du quartier Ennajah 1, Menzel Bourguiba.\n- Travaux de voirie, drainage des eaux pluviales et assainissement dans la zone de Bhar Lazrag – Marsa Tunis.\n- Travaux de voirie, éclairage public et aménagement d’un terrain du quartier Amri – El Hafiene – Trabelsi, Fouchana.\n- Travaux de voirie, drainage d’eau pluviale, assainissement des eaux usées, alimentation en eau potable et éclairage public dans le quartier Essaltnia, commune Sakiét Eddayer, gouvernorat de Sfax.\n- Travaux de voirie, drainage d’eau pluviale, assainissement des eaux usées et alimentation en eau potable dans le quartier Ezzitouna, commune Tejerouine, gouvernorat du Kef.\n- Travaux de voirie, drainage d’eau pluviale, assainissement des eaux usées, alimentation en eau potable et éclairage public dans le quartier Zanket El Msalla (Zone Cimer), commune Sakiét Eddayer, gouvernorat de Sfax."
+        }
       },
       {
         "category": "cat-2",
         "image": "assets/images/logo/sonede.png",
         "linkImage": "assets/images/logo/sonede.png",
         "title": "SONEDE",
-        "description": "Projet d'amélioration de l'Alimentation en eau potable du complexe TEBOURBA-JEDAIDA, Gouvernorat de Manouba."
-      },
-      {
-        "category": "cat-3",
-        "image": "assets/images/logo/onas.jpeg",
-        "linkImage": "assets/images/logo/onas.jpeg",
-        "title": "ONAS",
-        "description": "Transport et pose de conduites et construction d’ouvrages de génie civil"
-      },
-      {
-        "category": "cat-4",
-        "image": "assets/images/logo/steg.png",
-        "linkImage": "assets/images/projects/portrait/pic5.jpg",
-        "title": "STEG",
-        "description": "LOT 1 : La Fourniture de l'ensemble des équipements et l'exécution des travaux de pose et des prestations nécessaires à la construction, aux essais et à la mise en service du gazoduc TUNIS-MORNAGUIA-MABTOUH et ses ouvrages annexes."
+        "description": "Ensemble de projets d’amélioration de l’alimentation en eau potable dans plusieurs régions de Tunisie, visant à renforcer l’accès à l’eau pour les zones urbaines et rurales.",
+        "projectDetail": {
+          "images": [
+            {
+              "image": "assets/images/projects/portrait/pic7.jpg"
+            },
+            {
+              "image": "assets/images/projects/portrait/pic4.jpg"
+            },
+            {
+              "image": "assets/images/projects/portrait/pic5.jpg"
+            }
+          ],
+          "date": "January 20, 2026",
+          "client": "RETEL en partenariat avec la SONEDE et Hydrokast",
+          "type": "Alimentation en eau potable, Réseaux hydrauliques",
+          "location": "Tunisie",
+          "year": "2026",
+          "video": {
+            "thumb": "http://i3.ytimg.com/vi/s3A7AK1K2hc/maxresdefault.jpg",
+            "link": "https://www.youtube.com/watch?v=s3A7AK1K2hc"
+          },
+          "title": "Projets SONEDE - Amélioration de l’alimentation en eau potable",
+          "description": "Ces projets réalisés par RETEL en partenariat avec la SONEDE et Hydrokast visent à améliorer et sécuriser l’alimentation en eau potable dans différentes zones de Tunisie :\n\n- **Complexe Tebourba-Jedaida**, gouvernorat de Manouba : travaux d’amélioration et de renforcement du réseau pour répondre à la demande croissante.\n- **Complexe Geremda**, gouvernorat de Sfax : optimisation des infrastructures d’eau potable pour une desserte plus efficace.\n- **Milieu rural du gouvernorat de Sfax Sud** (Tyna, Mahres, Agareb, Graïba, Skhira, Bir Ali) : projets pour accroître le taux de desserte en eau potable, réduire les coupures et améliorer la qualité du service."
+        }
       },
       {
         "category": "cat-5",
         "image": "assets/images/logo/jnaynet.png",
         "linkImage": "assets/images/projects/portrait/pic5.jpg",
         "title": "JNAYNET",
-        "description": "Etude, Fourniture et Travaux de construction d'ensemble immobilier a usage d'ahabitat (JNAYNET EL WARD 900 APPARTEMENTS)"
-      },
-      {
-        "category": "cat-6",
-        "image": "assets/images/logo/ooredoo.png",
-        "linkImage": "assets/images/projects/portrait/pic5.jpg",
-        "title": "OOREDOO",
-        "description": "Déploiement de projets de Fibre Optique (Backbone, FTTN/LM, Zone FTTH et raccordement clients). 712km"
-      },
-      {
-        "category": "cat-1",
-        "image": "assets/images/logo/aru.png",
-        "linkImage": "assets/images/logo/aru.png",
-        "title": "ARRU",
-        "description": "Travaux de Voirie, d’eau Potable, drainage des eaux pluviales et d’éclairage public dans les quartiers MEKKI SUISSI, EL JADID, MAJLESS EL WILAYA ET KHATAB à NAASSAN (Ben AROUS)"
-      },
-      {
-        "category": "cat-1",
-        "image": "assets/images/logo/aru.png",
-        "linkImage": "assets/images/logo/aru.png",
-        "title": "ARRU",
-        "description": "Travaux de réhabilitation du ENNAJAH 1, MANZEL BOURGUIBA."
-      },
-      {
-        "category": "cat-1",
-        "image": "assets/images/logo/aru.png",
-        "linkImage": "assets/images/logo/aru.png",
-        "title": "ARRU",
-        "description": "Travaux de Voirie, drainage des eaux pluviales et d’assainissement dans la zone de BHAR LAZRAG – MARSA Tunis."
-      },
-      {
-        "category": "cat-1",
-        "image": "assets/images/logo/aru.png",
-        "linkImage": "assets/images/logo/aru.png",
-        "title": "ARRU",
-        "description": "Travaux de Voiries, d’éclairage public et d’aménagement d’un terrain du quartier AMRI – EL HAFIENE – TRABELSI, FOUCHANA."
-      },
-      {
-        "category": "cat-1",
-        "image": "assets/images/logo/aru.png",
-        "linkImage": "assets/images/logo/aru.png",
-        "title": "ARRU",
-        "description": "Travaux de Voirie, de Drainage d’eau pluviale, d’Assainissement des eaux usées, Alimentation en eau potable et d’Eclairage public dans le Quartier ESSALTNIA Commune SAKIET EDDAYER Gouvernorat de SFAX."
-      },
-      {
-        "category": "cat-1",
-        "image": "assets/images/logo/aru.png",
-        "linkImage": "assets/images/logo/aru.png",
-        "title": "ARRU",
-        "description": "Travaux de Voirie, de Drainage d’eau pluviale, d’Assainissement des eaux usées et D’Alimentation en eau potable dans le Quartier EZZITOUNA Commune TEJEROUINE Gouvernorat de EL KEF."
-      },
-      {
-        "category": "cat-1",
-        "image": "assets/images/logo/aru.png",
-        "linkImage": "assets/images/logo/aru.png",
-        "title": "ARRU",
-        "description": "Travaux de Voirie, de Drainage d’eau pluviale, d’Assainissement des eaux usées, Alimentation en eau potable et d’Eclairage public dans le Quartier ZANKET EL MSALLA (ZONE CIMER) Commune SAKIET EDDAYER Gouvernorat de SFAX."
+        "description": "Étude, fourniture et travaux de construction d'ensemble immobilier à usage d'habitat (JNAYNET EL WARD 900 appartements).",
+        "projectDetail": {
+          "images": [
+            { "image": "assets/images/projects/portrait/pic7.jpg" },
+            { "image": "assets/images/projects/portrait/pic4.jpg" },
+            { "image": "assets/images/projects/portrait/pic5.jpg" }
+          ],
+          "date": "July 10, 2025",
+          "client": "JNAYNET",
+          "type": "Immobilier, Construction",
+          "location": "Lieu non spécifié",
+          "year": "2025",
+          "video": {
+            "thumb": "http://i3.ytimg.com/vi/s3A7AK1K2hc/maxresdefault.jpg",
+            "link": "https://www.youtube.com/watch?v=s3A7AK1K2hc"
+          },
+          "title": "Projet JNAYNET EL WARD",
+          "description": "Construction d'un ensemble immobilier de 900 appartements destiné à l’habitat, comprenant toutes les phases d’étude, fourniture et travaux."
+        }
       },
       {
         "category": "cat-1",
         "image": "assets/images/logo/afh.jpg",
         "linkImage": "assets/images/logo/afh.jpg",
         "title": "AFH",
-        "description": "TRAVAUX DES RESEAUX PRIMAIRES DU LOTISSEMENT 'LES JARDINS DE TUNIS' LOT 4"
+        "description": "Travaux des réseaux primaires du lotissement 'Les Jardins de Tunis' Lot 4.",
+        "projectDetail": {
+          "images": [
+            {
+              "image": "assets/images/projects/portrait/pic7.jpg"
+            },
+            {
+              "image": "assets/images/projects/portrait/pic4.jpg"
+            },
+            {
+              "image": "assets/images/projects/portrait/pic5.jpg"
+            }
+          ],
+          "date": "September 12, 2025",
+          "client": "RETEL en partenariat avec l’AFH",
+          "type": "Construction, Réseaux primaires",
+          "location": "Lotissement 'Les Jardins de Tunis', Tunisie",
+          "year": "2025",
+          "video": {
+            "thumb": "http://i3.ytimg.com/vi/s3A7AK1K2hc/maxresdefault.jpg",
+            "link": "https://www.youtube.com/watch?v=s3A7AK1K2hc"
+          },
+          "title": "Réseaux primaires du lotissement 'Les Jardins de Tunis' - Lot 4",
+          "description": "Ce projet concerne la réalisation des réseaux primaires du lotissement 'Les Jardins de Tunis' Lot 4, comprenant la mise en place des réseaux d’assainissement, d’alimentation en eau potable, de drainage des eaux pluviales et de voiries principales. L’objectif est d’assurer les infrastructures essentielles permettant le développement du lotissement dans des conditions optimales de qualité et de durabilité."
+        }
       },
       {
         "category": "cat-1",
         "image": "assets/images/logo/dhu.png",
         "linkImage": "assets/images/logo/dhu.png",
         "title": "DHU",
-        "description": "TRAVAUX DE PROTECTION CONTRE LES INONDATIONS DE LA VILLE DE SFAX."
-      },
-      {
-        "category": "cat-1",
-        "image": "assets/images/logo/dhu.png",
-        "linkImage": "assets/images/logo/dhu.png",
-        "title": "DHU",
-        "description": "TRAVAUX DE PROTECTION CONTRE LES INONDATIONS DES VILLES DE HAMMAMET ET NABEUL."
+        "description": "Projets de protection contre les inondations dans plusieurs villes tunisiennes, visant à sécuriser les zones urbaines et réduire les risques hydrauliques.",
+        "projectDetail": {
+          "images": [
+            {
+              "image": "assets/images/projects/portrait/pic7.jpg"
+            },
+            {
+              "image": "assets/images/projects/portrait/pic4.jpg"
+            },
+            {
+              "image": "assets/images/projects/portrait/pic5.jpg"
+            }
+          ],
+          "date": "October 20, 2025",
+          "client": "RETEL en partenariat avec la DHU",
+          "type": "Travaux hydrauliques, Protection urbaine",
+          "location": "Tunisie",
+          "year": "2025",
+          "video": {
+            "thumb": "http://i3.ytimg.com/vi/s3A7AK1K2hc/maxresdefault.jpg",
+            "link": "https://www.youtube.com/watch?v=s3A7AK1K2hc"
+          },
+          "title": "Projets de protection contre les inondations - DHU",
+          "description": "Les projets réalisés comprennent :\n- Travaux de protection contre les inondations de la ville de Sfax, incluant la mise en place de réseaux de drainage, de bassins de rétention et de canalisations renforcées.\n- Travaux de protection contre les inondations des villes de Hammamet et Nabeul, avec des dispositifs de régulation des flux pluviaux et des infrastructures hydrauliques adaptées aux zones côtières.\nCes projets visent à réduire les risques hydrauliques, protéger les populations et préserver les infrastructures stratégiques."
+        }
       },
       {
         "category": "cat-1",
         "image": "assets/images/logo/simau.png",
         "linkImage": "assets/images/logo/simau.png",
         "title": "SIMAU",
-        "description": "travaux de viabilisation de la cité BETHEL (GCITT) de Ouedo dans la Commune d’Abomey-Calavi"
+        "description": "Travaux de viabilisation de la cité BETHEL (GCITT) à Ouedo dans la commune d’Abomey-Calavi.",
+        "projectDetail": {
+          "images": [
+            {
+              "image": "assets/images/projects/portrait/pic7.jpg"
+            },
+            {
+              "image": "assets/images/projects/portrait/pic4.jpg"
+            },
+            {
+              "image": "assets/images/projects/portrait/pic5.jpg"
+            }
+          ],
+          "date": "December 5, 2025",
+          "client": "RETEL en partenariat avec la SIMAU",
+          "type": "Construction, Viabilisation urbaine",
+          "location": "Ouedo, Commune d’Abomey-Calavi, Bénin",
+          "year": "2025",
+          "video": {
+            "thumb": "http://i3.ytimg.com/vi/s3A7AK1K2hc/maxresdefault.jpg",
+            "link": "https://www.youtube.com/watch?v=s3A7AK1K2hc"
+          },
+          "title": "Travaux de viabilisation de la cité BETHEL (GCITT)",
+          "description": "Ce projet consiste à réaliser les travaux de viabilisation de la cité BETHEL (GCITT) située à Ouedo, dans la commune d’Abomey-Calavi. Les travaux incluent l’ouverture et l’aménagement des voiries, la mise en place des réseaux d’assainissement, d’eau potable, d’électricité et de drainage des eaux pluviales, ainsi que la préparation des terrains pour accueillir les futures constructions. L’objectif est de créer une infrastructure urbaine durable et fonctionnelle pour le développement résidentiel et économique de la zone."
+        }
       },
       {
         "category": "cat-1",
         "image": "assets/images/logo/sirat.png",
         "linkImage": "assets/images/logo/sirat.png",
         "title": "SIRAT",
-        "description": "PROGRAMME D’ASSAINISSEMENT PLUVIAL DES VILLES SECONDAIRES, DEUXIEME PHASE (PAPVS-2).TRAVAUX DE CONSTRUCTION DE COLLECTEURS D’ASSAINISSEMENT PLUVIAL ET D’AMENAGEMENT DE VOIES CONNEXES DANS LA VILLE LOKOSSA 5LOT PAPVS-2T05)"
+        "description": "Programme d’assainissement pluvial des villes secondaires (PAPVS-2) – travaux de construction de collecteurs d’assainissement pluvial et aménagement de voies connexes dans la ville de Lokossa (Lot PAPVS-2T05).",
+        "projectDetail": {
+          "images": [
+            {
+              "image": "assets/images/projects/portrait/pic7.jpg"
+            },
+            {
+              "image": "assets/images/projects/portrait/pic4.jpg"
+            },
+            {
+              "image": "assets/images/projects/portrait/pic5.jpg"
+            }
+          ],
+          "date": "March 12, 2026",
+          "client": "RETEL en partenariat avec SIRAT",
+          "type": "Assainissement pluvial, Aménagement urbain",
+          "location": "Lokossa, Bénin",
+          "year": "2026",
+          "video": {
+            "thumb": "http://i3.ytimg.com/vi/s3A7AK1K2hc/maxresdefault.jpg",
+            "link": "https://www.youtube.com/watch?v=s3A7AK1K2hc"
+          },
+          "title": "Programme d’assainissement pluvial des villes secondaires (PAPVS-2) - Lokossa",
+          "description": "Ce projet fait partie de la deuxième phase du Programme d’assainissement pluvial des villes secondaires (PAPVS-2). Il consiste à construire des collecteurs d’assainissement pluvial et à aménager des voies connexes dans la ville de Lokossa, afin de réduire les risques d’inondation et d’améliorer la mobilité urbaine. Les travaux comprennent la mise en place de réseaux de drainage, la construction d’ouvrages hydrauliques, la réhabilitation de chaussées et l’intégration d’infrastructures connexes pour un développement urbain durable."
+        }
       },
       {
         "category": "cat-1",
         "image": "assets/images/logo/scit.jpeg",
         "linkImage": "assets/images/logo/scit.jpeg",
         "title": "SCIT",
-        "description": "TRAVAUX D’Aménagement de la zone industrielle de gare Mhamid a Tejrouine."
-      },
-
-      {
-        "category": "cat-2",
-        "image": "assets/images/logo/sonede.png",
-        "linkImage": "assets/images/logo/sonede.png",
-        "title": "SONEDE",
-        "description": "Projet d’amélioration de l’alimentation en eau potable du complexe geremda- Gouvernerat de sfax."
+        "description": "Travaux d’aménagement de la zone industrielle de Gare Mhamid à Tejerouine.",
+        "projectDetail": {
+          "images": [
+            {
+              "image": "assets/images/projects/portrait/pic7.jpg"
+            },
+            {
+              "image": "assets/images/projects/portrait/pic4.jpg"
+            },
+            {
+              "image": "assets/images/projects/portrait/pic5.jpg"
+            }
+          ],
+          "date": "August 05, 2025",
+          "client": "RETEL en partenariat avec la SCIT",
+          "type": "Construction, Aménagement industriel",
+          "location": "Zone industrielle de Gare Mhamid, Tejerouine, Tunisie",
+          "year": "2025",
+          "video": {
+            "thumb": "http://i3.ytimg.com/vi/s3A7AK1K2hc/maxresdefault.jpg",
+            "link": "https://www.youtube.com/watch?v=s3A7AK1K2hc"
+          },
+          "title": "Aménagement de la zone industrielle de Gare Mhamid",
+          "description": "Ce projet consiste en l’aménagement complet de la zone industrielle de Gare Mhamid à Tejerouine. Les travaux comprennent la mise en place des infrastructures routières, l’installation des réseaux d’assainissement et d’eau potable, la réalisation du drainage des eaux pluviales ainsi que l’éclairage public. L’objectif est de doter la région d’un espace industriel moderne et fonctionnel, favorisant le développement économique local."
+        }
       },
       {
         "category": "cat-2",
         "image": "assets/images/logo/hydrokast.png",
         "linkImage": "assets/images/logo/hydrokast.png",
         "title": "HYDROKARST",
-        "description": "Travaux de réhabilitation et de modernisation de la centrale hydroélectrique barrage de Bou Heurtma (Capacité : 3MW)"
-      },
-      {
-        "category": "cat-2",
-        "image": "assets/images/logo/hydrokast.png",
-        "linkImage": "assets/images/logo/hydrokast.png",
-        "title": "HYDROKARST",
-        "description": "Projet de réhabilitation du barrage d’El AROUSSIA (Capacité : 4,8MW)"
-      },
-      {
-        "category": "cat-2",
-        "image": "assets/images/logo/hydrokast.png",
-        "linkImage": "assets/images/logo/hydrokast.png",
-        "title": "SONEDE",
-        "description": "Projet d’amélioration du taux de desserte en eau potable dans le milieu rural du gouvernorat de SFAX SUD, TYNA, MAHRES, AGAREB, GRAIBA, SKHIRA, BIR ALI"
+        "description": "Projets de réhabilitation et de modernisation d’infrastructures hydroélectriques en Tunisie, visant à optimiser la production et prolonger la durée de vie des barrages.",
+        "projectDetail": {
+          "images": [
+            {
+              "image": "assets/images/projects/portrait/pic7.jpg"
+            },
+            {
+              "image": "assets/images/projects/portrait/pic4.jpg"
+            },
+            {
+              "image": "assets/images/projects/portrait/pic5.jpg"
+            }
+          ],
+          "date": "March 15, 2026",
+          "client": "RETEL en partenariat avec HYDROKARST",
+          "type": "Hydroélectricité, Réhabilitation de barrages",
+          "location": "Tunisie",
+          "year": "2026",
+          "video": {
+            "thumb": "http://i3.ytimg.com/vi/s3A7AK1K2hc/maxresdefault.jpg",
+            "link": "https://www.youtube.com/watch?v=s3A7AK1K2hc"
+          },
+          "title": "Projets HYDROKARST - Modernisation des barrages hydroélectriques",
+          "description": "Ces projets ont pour objectif de moderniser et réhabiliter les infrastructures hydroélectriques tunisiennes :\n\n- **Centrale hydroélectrique du barrage de Bou Heurtma** (Capacité : 3 MW) : réhabilitation des équipements, mise à niveau des installations et optimisation de la production.\n- **Barrage d’El Aroussia** (Capacité : 4,8 MW) : travaux de modernisation et de renforcement pour améliorer l’efficacité énergétique et la sécurité de l’ouvrage."
+        }
       },
       {
         "category": "cat-2",
         "image": "assets/images/logo/muhrf.png",
         "linkImage": "assets/images/logo/muhrf.png",
         "title": "MUHRF",
-        "description": "Aménagement et de construction du bassin de rétention, d’ouvrages d’amenée des eaux y compris les démolitions diverses et le ramassage des ordures ; de construction de l’ouvrage d’écrêtement du bassin (2136 ml de dalots) ; d’aménagement de la voirie y compris l’éclairage de la zone Agoè Houmbi a Lomé"
+        "description": "Projet d’aménagement hydraulique et de construction d’infrastructures pour la gestion des eaux pluviales et l’amélioration de la voirie dans la zone Agoè Houmbi à Lomé.",
+        "projectDetail": {
+          "images": [
+            {
+              "image": "assets/images/projects/portrait/pic7.jpg"
+            },
+            {
+              "image": "assets/images/projects/portrait/pic4.jpg"
+            },
+            {
+              "image": "assets/images/projects/portrait/pic5.jpg"
+            }
+          ],
+          "date": "June 20, 2026",
+          "client": "RETEL en partenariat avec MUHRF",
+          "type": "Hydraulique urbaine, Voirie et éclairage public",
+          "location": "Agoè Houmbi, Lomé – Togo",
+          "year": "2026",
+          "video": {
+            "thumb": "http://i3.ytimg.com/vi/s3A7AK1K2hc/maxresdefault.jpg",
+            "link": "https://www.youtube.com/watch?v=s3A7AK1K2hc"
+          },
+          "title": "Projet MUHRF – Aménagement et gestion des eaux pluviales à Lomé",
+          "description": "Ce projet comprend :\n\n- **Construction du bassin de rétention** pour la régulation des eaux pluviales et prévention des inondations.\n- **Réalisation d’ouvrages d’amenée des eaux**, incluant 2136 mètres linéaires de dalots.\n- **Démolitions diverses** et **ramassage des déchets** pour assainir la zone.\n- **Construction de l’ouvrage d’écrêtement** pour la gestion des crues.\n- **Aménagement et modernisation de la voirie**, avec installation d’un système complet d’**éclairage public**.\n\nCes travaux visent à améliorer la résilience urbaine de la zone Agoè Houmbi et à protéger les populations contre les risques d’inondation."
+        }
       },
       {
         "category": "cat-2",
         "image": "assets/images/logo/ONEA.png",
         "linkImage": "assets/images/logo/ONEA.png",
         "title": "ONEA",
-        "description": "PROJET D'ALIMENTATION DURABLE ET EQUITABLE DE L'ACCES A L'EAU POTABLE PAR DES SYSTEMES D'AEP MULTI-LOCALITES (PADEP-SML). Réalisation de la production du refoulement du stockage et des réseaux primaires d système d'Approvissionnement en Eau Potable Multi-Localités de Kouka-Ouest dans les Régions de la Boucle du Mouhoun et des Hauts-Bassins - Lot 3"
+        "description": "Projet d’alimentation durable et équitable en eau potable à travers la mise en place de systèmes AEP multi-localités dans les régions de la Boucle du Mouhoun et des Hauts-Bassins.",
+        "projectDetail": {
+          "images": [
+            {
+              "image": "assets/images/projects/portrait/pic7.jpg"
+            },
+            {
+              "image": "assets/images/projects/portrait/pic4.jpg"
+            },
+            {
+              "image": "assets/images/projects/portrait/pic5.jpg"
+            }
+          ],
+          "date": "April 18, 2026",
+          "client": "RETEL en partenariat avec ONEA",
+          "type": "Approvisionnement en eau potable, Réseaux hydrauliques",
+          "location": "Kouka-Ouest, Régions de la Boucle du Mouhoun et des Hauts-Bassins – Burkina Faso",
+          "year": "2026",
+          "video": {
+            "thumb": "http://i3.ytimg.com/vi/s3A7AK1K2hc/maxresdefault.jpg",
+            "link": "https://www.youtube.com/watch?v=s3A7AK1K2hc"
+          },
+          "title": "Projet ONEA – Alimentation en eau potable multi-localités",
+          "description": "Le **PADEP-SML** (Projet d'Alimentation Durable et Équitable en Eau Potable par des Systèmes d’AEP Multi-Localités) vise à améliorer l’accès à l’eau potable pour plusieurs communes, avec un impact direct sur la santé publique et le développement socio-économique.\n\nLes travaux réalisés dans le **Lot 3** incluent :\n\n- **Production** : forage et mise en place des installations de captage.\n- **Refoulement** : pompage et transfert de l’eau vers les zones de stockage.\n- **Stockage** : construction et mise en service de réservoirs d’eau.\n- **Réseaux primaires** : installation des conduites principales pour alimenter les différentes localités.\n\nCe projet contribue à réduire les inégalités d’accès à l’eau potable tout en assurant la durabilité des infrastructures."
+        }
       },
       {
         "category": "cat-2",
         "image": "assets/images/logo/somapep.png",
         "linkImage": "assets/images/logo/somapep.png",
         "title": "SOMAPEP",
-        "description": "TRAVAUX DE FOURNITURE ET POSE DE 98 KM DE CANALISATIONS ET DE REALISATION DE 188 BORNES FONTAINES "
+        "description": "Travaux d’extension et de renforcement des réseaux d’adduction en eau potable au Mali, incluant la pose de canalisations et l’installation de bornes fontaines.",
+        "projectDetail": {
+          "images": [
+            {
+              "image": "assets/images/projects/portrait/pic7.jpg"
+            },
+            {
+              "image": "assets/images/projects/portrait/pic4.jpg"
+            },
+            {
+              "image": "assets/images/projects/portrait/pic5.jpg"
+            }
+          ],
+          "date": "May 7, 2026",
+          "client": "RETEL en partenariat avec SOMAPEP",
+          "type": "Hydraulique urbaine, Réseaux d’eau potable",
+          "location": "Mali",
+          "year": "2026",
+          "video": {
+            "thumb": "http://i3.ytimg.com/vi/s3A7AK1K2hc/maxresdefault.jpg",
+            "link": "https://www.youtube.com/watch?v=s3A7AK1K2hc"
+          },
+          "title": "Projet SOMAPEP – Extension des réseaux d’eau potable au Mali",
+          "description": "Ce projet mené par **RETEL** et la **SOMAPEP** vise à améliorer la couverture en eau potable dans plusieurs zones urbaines et périurbaines du Mali. \n\nLes travaux comprennent :\n\n- **Fourniture et pose de 98 km de canalisations** pour l’adduction et la distribution d’eau.\n- **Installation de 188 bornes fontaines** pour améliorer l’accès à l’eau dans les quartiers défavorisés.\n\nCe chantier contribue à réduire la pénurie d’eau, à améliorer les conditions de vie des populations et à renforcer les infrastructures hydrauliques du pays."
+        }
       },
-
       {
         "category": "cat-3",
         "image": "assets/images/logo/Amenhyd.png",
@@ -2115,123 +2834,157 @@
         "image": "assets/images/logo/onas.jpeg",
         "linkImage": "assets/images/logo/onas.jpeg",
         "title": "ONAS",
-        "description": "Travaux De Construction D’une Station D’épuration Enfidha/Hergla Et Système D'interconnexion (Transfert De Boues, Des Eaux Brutes Et Des Eaux Epurées) : Génie Civil Et Equipement"
+        "description": "Une description globale des projets ONAS relatifs au transport de conduites, ouvrages de génie civil et stations d’épuration.",
+        "projectDetail": {
+          "images": [
+            { "image": "assets/images/projects/portrait/pic7.jpg" },
+            { "image": "assets/images/projects/portrait/pic4.jpg" },
+            { "image": "assets/images/projects/portrait/pic5.jpg" }
+          ],
+          "date": "July 10, 2025",
+          "client": "RETEL en partenariat avec ONAS",
+
+          "type": "Construction, Génie civil",
+          "location": "Mountain View CA 94043",
+          "year": "2025",
+          "video": {
+            "thumb": "http://i3.ytimg.com/vi/s3A7AK1K2hc/maxresdefault.jpg",
+            "link": "https://www.youtube.com/watch?v=s3A7AK1K2hc"
+          },
+          "title": "Projets ONAS",
+          "description": "• Transport et pose de conduites et construction d’ouvrages de génie civil.\n• Travaux de construction d’une station d’épuration à Enfidha/Hergla et système d'interconnexion (transfert de boues, des eaux brutes et des eaux épurées) : génie civil et équipement."
+        }
       },
       {
         "category": "cat-3",
         "image": "assets/images/logo/ANPT.png",
         "linkImage": "assets/images/logo/ANPT.png",
         "title": "ANPT",
-        "description": "Travaux de construction d'un système d'épuration des eaux usées domestiques à Ganvié au Bénin"
-      },
-
-      {
-        "category": "cat-4",
-        "image": "assets/images/logo/steg.png",
-        "linkImage": "assets/images/projects/portrait/pic5.jpg",
-        "title": "STEG",
-        "description": "LOT 2 : La Fourniture de l'ensemble des équipements et l'exécution des travaux de pose et des prestations nécessaires à la construction, aux essais et à la mise en service du gazoduc TUNIS-Beja et ses ouvrages annexes."
+        "description": "Travaux de construction d'un système d'épuration des eaux usées domestiques à Ganvié, Bénin.",
+        "projectDetail": {
+          "images": [
+            {
+              "image": "assets/images/projects/portrait/pic7.jpg"
+            },
+            {
+              "image": "assets/images/projects/portrait/pic4.jpg"
+            },
+            {
+              "image": "assets/images/projects/portrait/pic5.jpg"
+            }
+          ],
+          "date": "January 18, 2026",
+          "client": "RETEL en partenariat avec l’ANPT",
+          "type": "Construction, Traitement des eaux",
+          "location": "Ganvié, Bénin",
+          "year": "2026",
+          "video": {
+            "thumb": "http://i3.ytimg.com/vi/s3A7AK1K2hc/maxresdefault.jpg",
+            "link": "https://www.youtube.com/watch?v=s3A7AK1K2hc"
+          },
+          "title": "Construction d’un système d’épuration des eaux usées domestiques - Ganvié",
+          "description": "Ce projet a pour objectif de mettre en place un système moderne et efficace d'épuration des eaux usées domestiques à Ganvié, Bénin. Les travaux comprennent la conception et la construction des bassins de traitement, l’installation des conduites de collecte et de transfert, ainsi que la mise en place des dispositifs de filtration et de traitement biologique. Ce système vise à améliorer la qualité de l’eau, protéger l’environnement et contribuer à la santé publique dans la région."
+        }
       },
       {
         "category": "cat-4",
         "image": "assets/images/logo/etap.png",
         "linkImage": "assets/images/projects/portrait/pic5.jpg",
         "title": "ETAP",
-        "description": "Projet GAZ TATAOUINE - PIPES. 103km Conduite 8"
+        "description": "Projet GAZ TATAOUINE - PIPES. 103 km Conduite 8 pouces.",
+        "projectDetail": {
+          "images": [
+            { "image": "assets/images/projects/portrait/pic7.jpg" },
+            { "image": "assets/images/projects/portrait/pic4.jpg" },
+            { "image": "assets/images/projects/portrait/pic5.jpg" }
+          ],
+          "date": "July 10, 2025",
+          "client": "ETAP",
+          "type": "Gazoduc, Construction",
+          "location": "Tataouine, Tunisie",
+          "year": "2025",
+          "video": {
+            "thumb": "http://i3.ytimg.com/vi/s3A7AK1K2hc/maxresdefault.jpg",
+            "link": "https://www.youtube.com/watch?v=s3A7AK1K2hc"
+          },
+          "title": "Projet Gaz Tataouine",
+          "description": "Conception, fourniture et pose d’une conduite de gaz de 103 km de 8 pouces dans la région de Tataouine."
+        }
       },
-      {
-        "category": "cat-4",
-        "image": "assets/images/logo/steg.png",
-        "linkImage": "assets/images/projects/portrait/pic5.jpg",
-        "title": "STEG",
-        "description": "Gazoduc Gabès-Zarzis-Djerba : Conception, fourniture, construction et mise en service de 59 km de gazoduc de 8 pouces et ses installations annexes "
-      },
-      {
-        "category": "cat-4",
-        "image": "assets/images/logo/steg.png",
-        "linkImage": "assets/images/projects/portrait/pic5.jpg",
-        "title": "STEG",
-        "description": "Alimentation en gaz naturel des régions de Mjez-Elbeb, Testour et Ain Drahim: Conception, fourniture, construction et mise en service de 24 km de gazoduc de 8 pouces et ses installations annexes "
-      },
-      {
-        "category": "cat-4",
-        "image": "assets/images/logo/steg.png",
-        "linkImage": "assets/images/projects/portrait/pic5.jpg",
-        "title": "STEG",
-        "description": "Alimentation en gaz naturel des régions de Gobollat, Bouarada et Gaafour: Conception, fourniture, construction et mise en service de 74 km de gazoduc de 8 pouces et ses installations annexes"
-      },
-      {
-        "category": "cat-4",
-        "image": "assets/images/logo/steg.png",
-        "linkImage": "assets/images/projects/portrait/pic5.jpg",
-        "title": "STEG",
-        "description": "Alimentation en gaz naturel des régions de Teborsok et Krib: Conception, fourniture, construction et mise en service de 36 km de gazoduc de 8 pouces et ses installations annexes "
-      },
-      {
-        "category": "cat-4",
-        "image": "assets/images/logo/steg.png",
-        "linkImage": "assets/images/projects/portrait/pic5.jpg",
-        "title": "STEG",
-        "description": "Alimentation en gaz naturel des régions du Nord-Ouest tunisien (Partie II : Béja-Dahmani): Conception, fourniture, construction et mise en service de 117 km de gazoduc de 12 pouces et ses installations annexes, incluant fibre optique, systèmes de sécurité et de contrôle SCADA "
-      },
-      {
-        "category": "cat-4",
-        "image": "assets/images/logo/steg.png",
-        "linkImage": "assets/images/projects/portrait/pic5.jpg",
-        "title": "STEG",
-        "description": "Alimentation en gaz naturel des régions de Teborsok et Krib: Conception, fourniture, construction et mise en service de 36 km de gazoduc de 8 pouces et ses installations annexes "
-      },
-      {
-        "category": "cat-4",
-        "image": "assets/images/logo/steg.png",
-        "linkImage": "assets/images/projects/portrait/pic5.jpg",
-        "title": "STEG",
-        "description": "Alimentation en gaz naturel de la commune de Kébili: Étude, fourniture et construction de 97 km de gazoduc de 12 pouces et ses ouvrages annexes "
-      },
-
       {
         "category": "cat-5",
         "image": "assets/images/logo/jupiter.png",
         "linkImage": "assets/images/projects/portrait/pic5.jpg",
         "title": "JUPITER",
-        "description": "Etude, fourniture et travaux de construction de 138 Villa très Haut Standing  'MA VILLA 138'"
+        "description": "Étude, fourniture et travaux de construction de 138 villas très haut standing 'MA VILLA 138'.",
+        "projectDetail": {
+          "images": [
+            { "image": "assets/images/projects/portrait/pic7.jpg" },
+            { "image": "assets/images/projects/portrait/pic4.jpg" },
+            { "image": "assets/images/projects/portrait/pic5.jpg" }
+          ],
+          "date": "July 10, 2025",
+          "client": "JUPITER",
+          "type": "Immobilier, Construction",
+          "location": "Lieu non spécifié",
+          "year": "2025",
+          "video": {
+            "thumb": "http://i3.ytimg.com/vi/s3A7AK1K2hc/maxresdefault.jpg",
+            "link": "https://www.youtube.com/watch?v=s3A7AK1K2hc"
+          },
+          "title": "Projet MA VILLA 138",
+          "description": "Construction de 138 villas très haut standing sous le nom 'MA VILLA 138', avec étude, fourniture et travaux complets."
+        }
       },
-
       {
         "category": "cat-6",
         "image": "assets/images/logo/orange.png",
         "linkImage": "assets/images/projects/portrait/pic5.jpg",
         "title": "ORANGE",
-        "description": "Déploiement de projets de Fibre Optique (Backbone, FTTN/LM, Zone FTTH et raccordement clients). 124km"
+        "description": "Projets de déploiement de fibre optique pour ORANGE couvrant Backbone, FTTN/LM, zones FTTH et raccordement clients.",
+        "projectDetail": {
+          "images": [
+            { "image": "assets/images/projects/portrait/pic7.jpg" },
+            { "image": "assets/images/projects/portrait/pic4.jpg" },
+            { "image": "assets/images/projects/portrait/pic5.jpg" }
+          ],
+          "date": "July 10, 2025",
+          "client": "ORANGE",
+          "type": "Télécommunications, Fibre Optique",
+          "location": "Tunisie",
+          "year": "2025",
+          "video": {
+            "thumb": "http://i3.ytimg.com/vi/s3A7AK1K2hc/maxresdefault.jpg",
+            "link": "https://www.youtube.com/watch?v=s3A7AK1K2hc"
+          },
+          "title": "Projets Fibre Optique ORANGE",
+          "description": "• Projet 1 : Déploiement de 124 km de fibre optique (Backbone, FTTN/LM, FTTH, raccordement clients).\n• Projet 2 : Déploiement de 97 km de fibre optique (Backbone, FTTN/LM, FTTH, raccordement clients).\n• Projet 3 : Déploiement de 148 km de fibre optique (Backbone, FTTN/LM, FTTH, raccordement clients)."
+        }
       },
       {
         "category": "cat-6",
         "image": "assets/images/logo/ooredoo.png",
         "linkImage": "assets/images/projects/portrait/pic5.jpg",
         "title": "OOREDOO",
-        "description": "Déploiement de projets de Fibre Optique (Backbone, FTTN/LM, Zone FTTH et raccordement clients). 640km"
-      },
-      {
-        "category": "cat-6",
-        "image": "assets/images/logo/orange.png",
-        "linkImage": "assets/images/projects/portrait/pic5.jpg",
-        "title": "ORANGE",
-        "description": "Déploiement de projets de Fibre Optique (Backbone, FTTN/LM, Zone FTTH et raccordement clients). 97km"
-      },
-
-      {
-        "category": "cat-6",
-        "image": "assets/images/logo/orange.png",
-        "linkImage": "assets/images/projects/portrait/pic5.jpg",
-        "title": "ORANGE",
-        "description": " Déploiement de projets de Fibre Optique (Backbone, FTTN/LM, Zone FTTH et raccordement clients). 148KM "
-      },
-      {
-        "category": "cat-6",
-        "image": "assets/images/logo/ooredoo.png",
-        "linkImage": "assets/images/projects/portrait/pic5.jpg",
-        "title": "OOREDOO",
-        "description": "Déploiement de projets de Fibre Optique (Backbone, FTTN/LM, Zone FTTH et raccordement clients). 640KM + (1128KM Maintenance)"
+        "description": "Projets de déploiement de fibre optique pour OOREDOO couvrant Backbone, FTTN/LM, zones FTTH et raccordement clients.",
+        "projectDetail": {
+          "images": [
+            { "image": "assets/images/projects/portrait/pic7.jpg" },
+            { "image": "assets/images/projects/portrait/pic4.jpg" },
+            { "image": "assets/images/projects/portrait/pic5.jpg" }
+          ],
+          "date": "July 10, 2025",
+          "client": "OOREDOO",
+          "type": "Télécommunications, Fibre Optique",
+          "location": "Tunisie",
+          "year": "2025",
+          "video": {
+            "thumb": "http://i3.ytimg.com/vi/s3A7AK1K2hc/maxresdefault.jpg",
+            "link": "https://www.youtube.com/watch?v=s3A7AK1K2hc"
+          },
+          "title": "Projets Fibre Optique OOREDOO",
+          "description": "• Projet 1 : Déploiement de 712 km de fibre optique (Backbone, FTTN/LM, FTTH, raccordement clients).\n• Projet 2 : Déploiement de 640 km de fibre optique (Backbone, FTTN/LM, FTTH, raccordement clients).• Projet 3 : Déploiement de 640 km + 1128 km de maintenance fibre optique."
+        }
       }
     ]
   },

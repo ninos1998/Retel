@@ -14,5 +14,6 @@ import { GoogleMapsModule } from '@angular/google-maps';
   ]
 })
 export class ContactComponent {
-
+  center: google.maps.LatLngLiteral = { lat: 36.85663461449873, lng: 10.207528355822964 }; // Exemple : Tunis
+  zoom = 14;
 }

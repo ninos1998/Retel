@@ -62,4 +62,8 @@ export class ProjectsService {
   getProjectDetailData() {
     return projectDetail;
   }
+getProjectDetailDataByTitle(title: string) {
+  const project = projectGrid.projects.find(p => p.title === title);
+  return project ? project.projectDetail : null;
+}
 }

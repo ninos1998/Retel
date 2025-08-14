@@ -17,5 +17,6 @@ export class GridBox2Component {
    * Defines the JSON value used by component, visible to user
    */
   @Input() data: any;
-
-}
+setProjectDetail(title: string) {
+  localStorage.setItem('projectTitle', title);
+}}
