@@ -23,6 +23,10 @@ export class BannerService {
    */
   getBannerFor(url: string) {
     switch (url) {
+      case pageUrl(route.pages.DOMAINES):
+        return banner.domaines
+        case pageUrl(route.pages.IMPLANTATION):
+        return banner.implantation
       case pageUrl(route.pages.ABOUT):
         return banner.about
       case pageUrl(route.pages.SERVICES):

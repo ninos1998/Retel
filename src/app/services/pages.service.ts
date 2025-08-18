@@ -1,5 +1,5 @@
 import { Injectable } from '@angular/core';
-import { about, services, faq } from '@shared/data/content.json';
+import { about, services, faq,domaines } from '@shared/data/content.json';
 
 /**
  * Defines an intermediate layer to collect 'other-inner-pages' data
@@ -37,5 +37,8 @@ export class PagesService {
    */
   getFAQData() {
     return faq;
+  }
+  getDomaines() {
+    return domaines;
   }
 }

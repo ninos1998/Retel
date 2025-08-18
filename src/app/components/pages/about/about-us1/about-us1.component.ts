@@ -6,6 +6,8 @@ import { Story1Component } from '@sections/home/home3/story1/story1.component';
 import { PagesService } from '@services/pages.service';
 import { HomeService } from '@services/home.service';
 import { OurValue1Component } from '@components/page_sections/home/home1/our-value1/our-value1.component';
+import { CertificationComponent } from '@components/page_sections/about/certification/certification.component';
+import { OurMaterialsComponent } from '@components/page_sections/home/home1/our-materials/our-materials.component';
 
 /**
  * Defines functional view for About-Us page.
@@ -19,10 +21,13 @@ import { OurValue1Component } from '@components/page_sections/home/home1/our-val
     About3Component,
     Specializations4Component,
     Team3Component,
-    Story1Component,
-    OurValue1Component
+    // Story1Component,
+    OurValue1Component,
+    CertificationComponent,
+    OurMaterialsComponent
   ]
 })
+  
 export class AboutUs1Component {
 
   /**

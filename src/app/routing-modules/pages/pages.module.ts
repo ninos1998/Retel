@@ -6,13 +6,17 @@ import { ServicesComponent } from '@components/pages/services/services.component
 import { FaqComponent } from '@components/pages/faq/faq.component';
 import { Error404Component } from '@components/pages/error404/error404.component';
 import { ContactComponent } from '@components/pages/contact/contact.component';
+import { ImplantationComponent } from '@components/pages/implantation/implantation.component';
+import { DomainesComponent } from '@components/pages/domaines/domaines.component';
 
 const routes: Routes = [
   { path: route.pages.ABOUT, component: AboutUs1Component },
   { path: route.pages.SERVICES, component: ServicesComponent },
   { path: route.pages.FAQ, component: FaqComponent },
+  { path: route.pages.IMPLANTATION, component: ImplantationComponent },
+  { path: route.pages.DOMAINES, component: DomainesComponent },
   { path: route.pages.ERROR404, component: Error404Component },
-  { path: route.pages.CONTACT, component: ContactComponent }
+  { path: route.pages.CONTACT, component: ContactComponent },
 ]
 
 /**

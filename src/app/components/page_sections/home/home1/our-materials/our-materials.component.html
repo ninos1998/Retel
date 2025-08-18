@@ -1,0 +1,46 @@
+<div
+  class="section-full mobile-page-padding p-t80 p-b50 bg-white our-valu-wrap"
+>
+  <div class="container">
+    <div class="section-content">
+      <div class="row">
+        <div class="col-md-12 col-sm-12">
+          <!-- TITLE START -->
+          <div class="section-head">
+            <div class="mt-separator-outer separator-left">
+              <!-- <div class="mt-separator">
+                <h2 class="text-uppercase sep-line-one">
+                  <span class="font-weight-300 text-primary">Nos</span> Moyens
+                </h2>
+              </div> -->
+              <h2>Quelques engins de notre parc</h2>
+            </div>
+          </div>
+          <!-- TITLE END -->
+          <div class="carousel-container">
+            <div class="carousel-track" #carouselTrack>
+              @for(material of displayMaterials; track $index) {
+              <div class="material-card">
+                <div class="card-image">
+                  <img [src]="material.image" [alt]="material.title" />
+                </div>
+                <div class="card-content">
+                  <h3 class="card-title">{{ material.title }}</h3>
+                  <p class="card-subtitle">{{ material.subtitle }}</p>
+                  <!-- <div class="card-meta">
+          <span class="date"
+            >{{ material.date }} {{ material.month }} {{ material.year }}</span
+          >
+        </div> -->
+                </div>
+              </div>
+              }
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- CARROUSSEL -->
+</div>

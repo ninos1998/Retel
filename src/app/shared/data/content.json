@@ -2,42 +2,49 @@
   "home1": {
     "specializations": [
       {
-        "image": "assets/images/pic1.jpg",
-        "title": "Construction",
-        "subtitle": "Engineering your dreams."
+        "image": "assets/images/domaines/01route.png",
+        "title": "Route",
+        "subtitle": "Tracer des voies vers l'avenir."
       },
       {
-        "image": "assets/images/pic2.jpg",
-        "title": "Architecture",
-        "subtitle": "Life is Architecture."
+        "image": "assets/images/domaines/02VRD.png",
+        "title": "Voirie et réseaux divers",
+        "subtitle": "Relier les infrastructures et les hommes."
       },
       {
-        "image": "assets/images/pic3.jpg",
-        "title": "Renovation",
-        "subtitle": "Dazzling Design"
+        "image": "assets/images/domaines/03HYDROLIQUE.png",
+        "title": "Hydraulique",
+        "subtitle": "Maîtriser l’eau pour servir la vie."
+      },
+      {
+        "image": "assets/images/domaines/04gaz.png",
+        "title": "Gaz et Hydrocarbures",
+        "subtitle": "Acheminer l’énergie en toute sécurité."
+      },
+      {
+        "image": "assets/images/domaines/05batiment.png",
+        "title": "Bâtiments",
+        "subtitle": "Concevoir et ériger des espaces durables."
+      },
+      {
+        "image": "assets/images/domaines/06Telecom.png",
+        "title": "Infrastructure de télécom",
+        "subtitle": "Déployer les réseaux qui connectent le monde."
       }
     ],
+
     "aboutSlides": [
       {
-        "image": "assets/images/gallery/pic1.jpg"
+        "image": "assets/images/gallery/06.png"
       },
       {
-        "image": "assets/images/gallery/pic8.jpg"
-      },
-      {
-        "image": "assets/images/gallery/pic9.jpg"
-      },
-      {
-        "image": "assets/images/gallery/pic6.jpg"
-      },
-      {
-        "image": "assets/images/gallery/pic2.jpg"
+        "image": "assets/images/gallery/05.png"
       }
     ],
     "ourValue": {
       "author": {
-        "name": "David Houkr",
-        "designation": "Architect & Founder",
+        "name": "Ahmed Bakir",
+        "designation": "Directeur Général",
         "sign": "assets/images/Signature+Black.png"
       },
       "video": "https://player.vimeo.com/video/34741214?color=ffffff&amp;title=0&amp;byline=0&amp;portrait=0",
@@ -58,7 +65,7 @@
       "experience": "15",
       "exData": [
         {
-          "title": "Architecher",
+          "title": "Architecte",
           "percent": "85"
         },
         {
@@ -66,11 +73,11 @@
           "percent": "78"
         },
         {
-          "title": "Building",
+          "title": "Bâtiment",
           "percent": "65"
         },
         {
-          "title": "Interior",
+          "title": "Intérieur",
           "percent": "40"
         },
         {
@@ -717,7 +724,73 @@
       },
       {
         "background": "",
-        "image": "assets/images/moyens/mini chargeuse.jpg",
+        "image": "assets/images/moyens/mini_chargeuse.png",
+        "date": "18",
+        "month": "April",
+        "year": "2025",
+        "author": "admin",
+        "comments": "2",
+        "title": "mini chargeuse",
+        "subtitle": "Every pleasure is to be welcome every pain avoided. in certain."
+      },
+      {
+        "background": "",
+        "image": "assets/images/moyens/tractopelle.jpg",
+        "date": "18",
+        "month": "April",
+        "year": "2025",
+        "author": "admin",
+        "comments": "2",
+        "title": "Tractopelle",
+        "subtitle": "Every pleasure is to be welcome every pain avoided. in certain."
+      },
+      {
+        "background": "",
+        "image": "assets/images/moyens/bulldozer.jpg",
+        "date": "14",
+        "month": "April",
+        "year": "2025",
+        "author": "admin",
+        "comments": "2",
+        "title": "Bulldozer",
+        "subtitle": "Which is the same as saying through shrinking from toil and pain."
+      },
+      {
+        "background": "",
+        "image": "assets/images/moyens/chargeuse.jpg",
+        "date": "16",
+        "month": "April",
+        "year": "2025",
+        "author": "admin",
+        "comments": "2",
+        "title": "Chargeuse",
+        "subtitle": "Today we can tell you, thanks to your passion, hard work creativity."
+      },
+      {
+        "background": "",
+        "image": "assets/images/moyens/dumper.jpg",
+        "date": "18",
+        "month": "April",
+        "year": "2025",
+        "author": "admin",
+        "comments": "2",
+        "title": "Dumper",
+        "subtitle": "Every pleasure is to be welcome every pain avoided. in certain."
+      },
+      {
+        "background": "",
+        "image": "assets/images/moyens/engin3.jpg",
+        "date": "18",
+        "month": "April",
+        "year": "2025",
+        "author": "admin",
+        "comments": "2",
+        "title": "Scraper",
+        "subtitle": "Every pleasure is to be welcome every pain avoided. in certain."
+      },
+      {
+        "background": "",
+        "image": "assets/images/moyens/mini_chargeuse.jpg",
         "date": "18",
         "month": "April",
         "year": "2025",
@@ -738,37 +811,63 @@
         "subtitle": "Every pleasure is to be welcome every pain avoided. in certain."
       }
     ],
+    "materials": [
+      {
+        "image": "assets/images/moyens/bulldozer.png",
+        "title": "Bulldozer",
+        "subtitle": "Engin puissant utilisé pour pousser et déplacer de grandes quantités de terre ou de gravats."
+      },
+      {
+        "image": "assets/images/moyens/chargeuse.png",
+        "title": "Chargeuse",
+        "subtitle": "Machine conçue pour charger rapidement des matériaux dans des camions ou sur des sites de construction."
+      },
+      {
+        "image": "assets/images/moyens/dumper.png",
+        "title": "Dumper",
+        "subtitle": "Véhicule utilisé pour transporter et déverser de gros volumes de matériaux en vrac."
+      },
+      {
+        "image": "assets/images/moyens/engin3.png",
+        "title": "Scraper",
+        "subtitle": "Engin capable de décaper, transporter et déposer la terre sur de longues distances."
+      },
+      {
+        "image": "assets/images/moyens/mini_chargeuse.png",
+        "title": "Mini chargeuse",
+        "subtitle": "Version compacte d'une chargeuse, idéale pour travailler dans des espaces réduits."
+      },
+      {
+        "image": "assets/images/moyens/tractopelle.png",
+        "title": "Tractopelle",
+        "subtitle": "Engin polyvalent combinant une pelle à l’avant et une excavatrice à l’arrière."
+      }
+    ],
 
     "testimonials": [
       {
-        "image": "assets/images/testimonials/pic1.jpg",
-        "name": "Shelly Johnson",
-        "designation": "Business Person",
-        "quote": "Excellent Customer support!. The template itself is very ext ended. simply dummy text of the printing and industry. the printing and typesetting industry."
+        "image": "assets/images/logo/steg.png",
+        "name": "Client STEG",
+        "designation": "Société Tunisienne de l'Électricité et du Gaz",
+        "quote": "La collaboration avec Retel a permis une meilleure planification et exécution de nos chantiers techniques. Leur expertise en infrastructure est indéniable."
       },
       {
-        "image": "assets/images/testimonials/pic2.jpg",
-        "name": "Cuthbert Brain",
-        "designation": "Contractor",
-        "quote": "The template itself is very ext ended. excellent customer support! simply dummy text of the printing and industry. the printing and typesetting industry."
+        "image": "assets/images/logo/aru.png",
+        "name": "Client ARRU",
+        "designation": "Opérateur Télécom",
+        "quote": "Avec Retel, nous avons trouvé un partenaire fiable et réactif pour nos projets en fibre optique. Leur professionnalisme et leur savoir-faire sont des atouts majeurs."
       },
       {
-        "image": "assets/images/testimonials/pic3.jpg",
-        "name": "Cathrine Wagner",
-        "designation": "Builder",
-        "quote": "The template itself is very ext ended. excellent customer support! simply dummy text of the printing and industry. the printing and typesetting industry."
+        "image": "assets/images/logo/ooredoo.png",
+        "name": "Client OOREDOO",
+        "designation": "Opérateur Télécom",
+        "quote": "Retel nous accompagne depuis plusieurs années dans le déploiement de nos infrastructures. Leur engagement et leur expertise dans le secteur des télécoms sont exemplaires."
       },
       {
-        "image": "assets/images/testimonials/pic4.jpg",
-        "name": "John Doe",
-        "designation": "Business Person",
-        "quote": "Excellent Customer support!. The template itself is very ext ended. simply dummy text of the printing and industry. the printing and typesetting industry."
-      },
-      {
-        "image": "assets/images/testimonials/pic5.jpg",
-        "name": "Cuthbert Brain",
-        "designation": "Business Person",
-        "quote": "The template itself is very ext ended. excellent customer support!.  simply dummy text of the printing and industry. the printing and typesetting industry."
+        "image": "assets/images/logo/sonede.png",
+        "name": "Client SONEDE",
+        "designation": "Société Nationale d’Exploitation et de Distribution des Eaux",
+        "quote": "Grâce à Retel, nous avons pu moderniser une grande partie de notre réseau. Leur capacité à gérer des projets complexes dans plusieurs régions est impressionnante."
       }
     ]
   },
@@ -840,8 +939,8 @@
     "ourValue": {
       "video": "https://player.vimeo.com/video/34741214?color=ffffff&amp;title=0&amp;byline=0&amp;portrait=0",
       "sign": "assets/images/Signature+Black.png",
-      "author": "David Houkr",
-      "designation": "Architect & Founder"
+      "author": "Ahmed Bakir",
+      "designation": "Directeur Général"
     },
     "services": [
       {
@@ -1050,9 +1149,9 @@
         }
       ],
       "experience": "25",
-      "author": "David Houkr",
+      "author": "Ahmed Bakir",
       "sign": "assets/images/Signature+Black.png",
-      "designation": "Architect & Founder"
+      "designation": "Directeur Général"
     },
     "specializations": [
       {
@@ -1266,9 +1365,9 @@
         }
       ],
       "experience": "25",
-      "author": "David Houkr",
+      "author": "Ahmed Bakir",
       "sign": "assets/images/Signature+Black.png",
-      "designation": "Architect & Founder"
+      "designation": "Directeur Général"
     },
     "specializations": [
       {
@@ -1290,8 +1389,8 @@
     "ourValue": {
       "video": "https://player.vimeo.com/video/34741214?color=ffffff&amp;title=0&amp;byline=0&amp;portrait=0",
       "sign": "assets/images/Signature+Black.png",
-      "author": "David Houkr",
-      "designation": "Architect & Founder"
+      "author": "Ahmed Bakir",
+      "designation": "Directeur Général"
     },
     "projects": [
       {
@@ -1480,19 +1579,16 @@
           "image": "assets/images/logo/logo.png"
         },
         {
-          "image": "assets/images/logo/logo.png"
+          "image": "assets/images/03.png"
         },
         {
-          "image": "assets/images/logo/logo.png"
-        },
-        {
-          "image": "assets/images/logo/logo.png"
+          "image": "assets/images/04.png"
         }
       ],
       "experience": "25",
-      "author": "David Houkr",
+      "author": "Ahmed Bakir",
       "sign": "assets/images/Signature+Black.png",
-      "designation": "Architect & Founder"
+      "designation": "Directeur Général"
     },
     "specializations": [
       {
@@ -1520,25 +1616,45 @@
         "description": "Nous plaçons nos équipes et nos communautés au cœur de nos actions, agissant chaque jour avec responsabilité et durabilité."
       }
     ],
-
+    "certificats": [
+      {
+        "image": "assets/images/services/service-projects/certif.png",
+        "name": "CERTIFICATION ISO 9001",
+        "date": "01/03/2025",
+        "description": "L'organisation de l'entreprise est hautement spécialisée pour apporter le mélange approprié d'expérience et de qualifications à chaque projet et pour garantir à chaque client un soutien professionnel à toutes les étapes de chaque projet. Assurant la conformité aux normes ISO 9001-2008, l'entreprise élabore des procédures détaillées en matière de qualité, de sécurité et d'environnement pour chaque projet. Le plan qualité garantit que chaque projet répond aux attentes de qualité du client et aux normes mondiales"
+      },
+      {
+        "image": "assets/images/services/service-projects/certif.png",
+        "name": "CERTIFICATION ISO 9001",
+        "date": "01/03/2025",
+        "description": "L'organisation de l'entreprise est hautement spécialisée pour apporter le mélange approprié d'expérience et de qualifications à chaque projet et pour garantir à chaque client un soutien professionnel à toutes les étapes de chaque projet. Assurant la conformité aux normes ISO 9001-2008, l'entreprise élabore des procédures détaillées en matière de qualité, de sécurité et d'environnement pour chaque projet. Le plan qualité garantit que chaque projet répond aux attentes de qualité du client et aux normes mondiales"
+      },
+      {
+        "image": "assets/images/services/service-projects/certif.png",
+        "name": "CERTIFICATION ISO 9001",
+        "date": "01/03/2025",
+        "description": "L'organisation de l'entreprise est hautement spécialisée pour apporter le mélange approprié d'expérience et de qualifications à chaque projet et pour garantir à chaque client un soutien professionnel à toutes les étapes de chaque projet. Assurant la conformité aux normes ISO 9001-2008, l'entreprise élabore des procédures détaillées en matière de qualité, de sécurité et d'environnement pour chaque projet. Le plan qualité garantit que chaque projet répond aux attentes de qualité du client et aux normes mondiales"
+      }
+    ],
     "team": [
       {
-        "image": "assets/images/our-team4/pic1.png",
-        "name": "Avie Beaton",
-        "designation": "Ceo & Architect",
-        "description": "Which is worse, that everyone has his price, or that the price is always so low."
+        "image": "assets/images/our-team4/ahmed.jpeg",
+        "name": "Ahmed Bakir",
+        "designation": "Directeur général",
+        "description": "Le vrai leadership consiste à inspirer, non pas à imposer.",
+        "linkedin": "https://tn.linkedin.com/in/bakir-ahmed-40651a137"
       },
       {
-        "image": "assets/images/our-team4/pic2.png",
-        "name": "Ben Jonson",
-        "designation": "Architect",
-        "description": "Which is worse, that everyone has his price, or that the price is always so low."
+        "image": "assets/images/our-team4/ahmed.jpeg",
+        "name": "Ahmed Bakir",
+        "designation": "Directeur général",
+        "description": "Le vrai leadership consiste à inspirer, non pas à imposer."
       },
       {
-        "image": "assets/images/our-team4/pic3.png",
-        "name": "Ashley Fletcher",
-        "designation": "Finances",
-        "description": "Which is worse, that everyone has his price, or that the price is always so low."
+        "image": "assets/images/our-team4/ahmed.jpeg",
+        "name": "Ahmed Bakir",
+        "designation": "Directeur général",
+        "description": "Le vrai leadership consiste à inspirer, non pas à imposer."
       }
     ],
     "story": [
@@ -1566,7 +1682,84 @@
         "title": "Museum Expansion",
         "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. remaining essentially unchanged."
       }
-    ]
+    ],
+    "materials": [
+      {
+        "image": "assets/images/moyens/bulldozer.png",
+        "title": "Bulldozer",
+        "subtitle": "Engin puissant utilisé pour pousser et déplacer de grandes quantités de terre ou de gravats."
+      },
+      {
+        "image": "assets/images/moyens/chargeuse.png",
+        "title": "Chargeuse",
+        "subtitle": "Machine conçue pour charger rapidement des matériaux dans des camions ou sur des sites de construction."
+      },
+      {
+        "image": "assets/images/moyens/dumper.png",
+        "title": "Dumper",
+        "subtitle": "Véhicule utilisé pour transporter et déverser de gros volumes de matériaux en vrac."
+      },
+      {
+        "image": "assets/images/moyens/engin3.png",
+        "title": "Scraper",
+        "subtitle": "Engin capable de décaper, transporter et déposer la terre sur de longues distances."
+      },
+      {
+        "image": "assets/images/moyens/mini_chargeuse.png",
+        "title": "Mini chargeuse",
+        "subtitle": "Version compacte d'une chargeuse, idéale pour travailler dans des espaces réduits."
+      },
+      {
+        "image": "assets/images/moyens/tractopelle.png",
+        "title": "Tractopelle",
+        "subtitle": "Engin polyvalent combinant une pelle à l’avant et une excavatrice à l’arrière."
+      }
+    ],
+    "ourValue": {
+      "author": {
+        "name": "Ahmed Bakir",
+        "designation": "Directeur Général",
+        "sign": "assets/images/Signature+Black.png"
+      },
+      "video": "https://player.vimeo.com/video/34741214?color=ffffff&amp;title=0&amp;byline=0&amp;portrait=0",
+      "facts": [
+        {
+          "figure": "350",
+          "title": "RH"
+        },
+        {
+          "figure": "180",
+          "title": "engins de notre parc"
+        },
+        {
+          "figure": "50",
+          "title": "Projets Complétés"
+        }
+      ],
+      "experience": "15",
+      "exData": [
+        {
+          "title": "Architecte",
+          "percent": "85"
+        },
+        {
+          "title": "Construction",
+          "percent": "78"
+        },
+        {
+          "title": "Bâtiment",
+          "percent": "65"
+        },
+        {
+          "title": "Intérieur",
+          "percent": "40"
+        },
+        {
+          "title": "Commercial",
+          "percent": "55"
+        }
+      ]
+    }
   },
   "services": {
     "specializations": [
@@ -1767,6 +1960,44 @@
       }
     ]
   },
+  "domaines": [
+    {
+      "id": "voirie-reseaux-divers",
+      "image": "assets/images/domaines/02VRD.png",
+      "title": "Voirie et Réseaux Divers",
+      "description": "Vu sa pluridisciplinarité en matière de travaux publics, RETEL entreprend et construit les projets les plus complexes de viabilisation de terrains et de construction de chaussées en Tunisie."
+    },
+    {
+      "id": "hydraulique",
+      "image": "assets/images/domaines/03HYDROLIQUE.png",
+      "title": "Hydraulique",
+      "description": "RETEL prend en charge la fourniture et les travaux de projet hydraulique que ce soit pour l’alimentation et la distribution d’eau potable que pour la collecte des eaux usées."
+    },
+    {
+      "id": "gaz-hydrocarbures",
+      "image": "assets/images/domaines/04gaz.png",
+      "title": "Gaz et Hydrocarbures",
+      "description": "RETEL entreprend des travaux de construction des réseaux de distribution du gaz naturel et de transport des hydrocarbures."
+    },
+    {
+      "id": "batiments",
+      "image": "assets/images/domaines/05batiment.png",
+      "title": "Bâtiments",
+      "description": "Le département bâtiment de RETEL répond aux exigences de ses clients promoteurs immobiliers et maîtres d’ouvrage indépendamment de l’usage : habitation, bureautique, commercial ou industriel, selon le standing demandé."
+    },
+    {
+      "id": "routes",
+      "image": "assets/images/domaines/01route.png",
+      "title": "Routes",
+      "description": "RETEL réalise des projets routiers allant de la construction de nouvelles infrastructures à la réhabilitation et à l’entretien des routes existantes, garantissant qualité et durabilité."
+    },
+    {
+      "id": "telecom",
+      "image": "assets/images/domaines/06Telecom.png",
+      "title": "Infrastructures de Télécommunication et Fibre Optique",
+      "description": "RETEL déploie des réseaux modernes de télécommunication, incluant la pose et la maintenance de la fibre optique, afin d’accompagner le développement numérique et technologique."
+    }
+  ],
   "blogGrid": {
     "blogs": [
       {

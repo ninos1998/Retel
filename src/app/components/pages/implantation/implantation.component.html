@@ -1,0 +1,78 @@
+<div class="image-grid-container">
+  <div class="image-grid">
+    @for(image of images; track $index) {
+    <div
+      class="image-item"
+      [class]="
+        $index === 0 ? 'image-item main-image' : 'image-item secondary-image'
+      "
+    >
+      <img [src]="image.src" [alt]="image.alt" />
+      @if(image.hasOverlay) {
+      <div class="overlay">
+        <h2 class="overlay-text">{{ image.overlayText }}</h2>
+      </div>
+      }
+    </div>
+    }
+
+    <div class="content-section">
+      <h2 class="text-white text-uppercase sep-line-one">Implantation</h2>
+      <p class="section-description">
+        Nous consolidons chaque année davantage notre présence et notre rôle
+        dans le paysage ouest-africain.
+      </p>
+    </div>
+  </div>
+</div>
+<!-- AFRICA -->
+<div class="map-section">
+  <div class="map-content">
+    <div class="map-container">
+      <img
+        src="assets/images/implantation/map.png"
+        alt="Carte de l'Afrique"
+        class="africa-map"
+      />
+      <!-- Points sur la carte pour chaque pays -->
+      <div class="map-point tunisia" title="Tunisie"></div>
+      <div class="map-point benin" title="Bénin"></div>
+      <div class="map-point togo" title="Togo"></div>
+    </div>
+
+    <div class="statistics-container">
+      <div class="country-tabs">
+        <button class="tab-button active">TUNISIE</button>
+        <button class="tab-button">BÉNIN</button>
+        <button class="tab-button">TOGO</button>
+      </div>
+
+      <div class="company-info">
+        <div class="contact-info">
+          <p class="phone">+216 71 123 456</p>
+          <a href="page/contact" class="contact-link">Contact →</a>
+        </div>
+      </div>
+
+      <div class="stats-grid">
+        <div class="stat-item">
+          <div class="stat-number">+ 2000</div>
+          <div class="stat-description">
+            Plus de 2 000 KM<br />
+            de routes construites<br />
+            <span class="hashtag">#Retel</span>
+          </div>
+        </div>
+
+        <div class="stat-item">
+          <div class="stat-number">+ 3500</div>
+          <div class="stat-description">
+            Plus de 3500 employés en<br />
+            Afrique<br />
+            <span class="hashtag">#Retel</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

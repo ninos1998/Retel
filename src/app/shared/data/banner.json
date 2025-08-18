@@ -1,6 +1,17 @@
 {
+  "domaines": {
+    "image": "assets/images/background/03.png",
+    "title": "Quand c'est RETEL, c'est Garantit",
+    "page": "About 1"
+  },
+  "implantation": {
+    "image": "assets/images/banner/10.jpg",
+    "title": "Quand c'est RETEL, c'est Garantit",
+    "page": "About 1"
+  },
+
   "about": {
-    "image": "assets/images/banner/1.jpg",
+    "image": "assets/images/background/02.png",
     "title": "Quand c'est RETEL, c'est Garantit",
     "page": "About 1"
   },
@@ -20,7 +31,7 @@
     "page": "Error Page"
   },
   "contact": {
-    "image": "assets/images/banner/4.jpg",
+    "image": "assets/images/banner/contact.jpeg",
     "title": "Putting a plan to action, to assure your satisfaction!",
     "page": "Contact Us"
   },
@@ -60,7 +71,7 @@
     "page": "Post With Sidebar"
   },
   "projectGrid": {
-    "image": "assets/images/banner/talent.jpg",
+    "image": "assets/images/banner/project.jpeg",
     "title": "LE TALENT DE L´AFRIQUE",
     "page": "Project Grid"
   },

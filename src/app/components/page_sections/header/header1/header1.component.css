@@ -1,6 +1,17 @@
 .logo-limite {
     max-width: 173px;
-    max-height: 44px;
+    max-height: 70px;
     height: auto;
     width: auto;
+}
+
+.site-button.light-btn {
+    background-color: #f1f1f1;
+    color: #333;
+    border: 1px solid #ccc;
+}
+
+.site-button.light-btn:hover {
+    background-color: #e0e0e0;
+    color: #000;
 }

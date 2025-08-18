@@ -1,64 +1,99 @@
 <ul class="nav navbar-nav">
-  <li class="active">
-    <a href="javascript:void(0);">Qui sommes nous ?</a>
+  <li>
+    <a class="active" routerLink="/index">Acceuil</a>
+  </li>
+  <li>
+    <a routerLink="/page/about">Qui sommes nous ?</a>
     <ul class="sub-menu">
       <li>
-        <a routerLink="/page/about">Présentation</a>
+        <a
+          routerLink="/page/about"
+          (click)="goToSection('/page/about', 'presentation')"
+          >Présentation</a
+        >
       </li>
       <li>
-        <a routerLink="/index2">Nos Moyens</a>
+        <a routerLink="/page/about" (click)="goToSection('/page/about', 'team')"
+          >Notre Equipe</a
+        >
+      </li>
+      <li>
+        <a
+          routerLink="/page/about"
+          (click)="goToSection('/page/about', 'moyens')"
+          moyens
+          >Nos Moyens</a
+        >
         <!-- Notre capital humain 
                  engins de notre parc -->
       </li>
       <li>
-        <a routerLink="/index3">Mission , Vision et Valeur</a>
+        <a
+          routerLink="/page/about"
+          (click)="goToSection('/page/about', 'mission')"
+          >Mission , Vision et Valeur</a
+        >
       </li>
       <li>
-        <a routerLink="/index4">Nos engagements</a>
+        <a
+          routerLink="/page/about"
+          (click)="goToSection('/page/about', 'valeurs')"
+          >Nos engagements</a
+        >
       </li>
       <li>
-        <a routerLink="/index4">Notre Politique HSE</a>
+        <a routerLink="/page/about" (click)="goToSection('/page/about', 'HSE')">
+          Notre Politique HSE</a
+        >
+      </li>
+      <li>
+        <a
+          routerLink="/page/about"
+          (click)="goToSection('/page/about', 'certifications')"
+          >Nos Certifications</a
+        >
       </li>
     </ul>
   </li>
 
   <li>
-    <a href="javascript:void(0);">Domaine d'activité</a>
+    <a routerLink="/page/domaines">Domaine d'activité</a>
     <ul class="sub-menu">
       <li>
-        <a routerLink="/index">Routes</a>
+        <a (click)="goToSection('/page/domaines', 'voirie-reseaux-divers')"
+          >Voirie et Réseaux Divers</a
+        >
       </li>
       <li>
-        <a routerLink="/index2">Voirie et Reseaux Divers</a>
-        <!-- Notre capital humain 
-                 engins de notre parc -->
+        <a (click)="goToSection('/page/domaines', 'hydraulique')"
+          >Hydraulique</a
+        >
       </li>
       <li>
-        <a routerLink="/index3">Hydraulique</a>
-        <!-- Eau Potable
-                 Eau Usée -->
+        <a (click)="goToSection('/page/domaines', 'gaz-hydrocarbures')"
+          >Gaz et Hydrocarbures</a
+        >
       </li>
       <li>
-        <a routerLink="/index4">Gaz et Hydrocarbures</a>
+        <a (click)="goToSection('/page/domaines', 'batiments')">Bâtiments</a>
+      </li>
+      <li><a (click)="goToSection('/page/domaines', 'routes')">Routes</a></li>
+
+      <li>
+        <a (click)="goToSection('/page/domaines', 'telecom')"
+          >Infrastructures Télécom</a
+        >
       </li>
       <li>
-        <a routerLink="/index4">Bâtiments</a>
-      </li>
-      <li>
-        <a routerLink="/index4">
-          Infratstructure de Télécommunication (Fibre Optique)
-        </a>
-      </li>
-      <li>
-        <a routerLink="/index4">Production et vente de Béton</a>
+        <a routerLink="/page/domaines">Production et vente de Béton</a>
       </li>
     </ul>
   </li>
   <li>
     <a routerLink="/project/grid">Nos projets</a>
   </li>
- 
-<!-- 
+
+  <!-- 
   <li>
     <a href="javascript:void(0);">Projects</a>
     <ul class="sub-menu">
@@ -71,75 +106,3 @@
     </ul>
   </li> -->
 </ul>
-
-<!-- <ul class=" nav navbar-nav">
-
-    <li class="active">
-        <a href="javascript:void(0);">Home</a>
-        <ul class="sub-menu">
-
-            <li>
-                <a routerLink="/index">Home-1</a>
-            </li>
-            <li>
-                <a routerLink="/index2">Home-2</a>
-            </li>
-            <li>
-                <a routerLink="/index3">Home-3 boxed style</a>
-            </li>
-            <li>
-                <a routerLink="/index4">Home-4</a>
-            </li>
-        </ul>
-    </li>
-
-    <li>
-        <a routerLink="/page/about">About us</a>
-    </li>
-    <li>
-        <a routerLink="/page/services">Services</a>
-    </li>
-    <li>
-        <a href="javascript:void(0);">Pages</a>
-        <ul class="sub-menu">
-            <li>
-                <a href="javascript:void(0);">Blog</a>
-                <ul class="sub-menu has-child">
-                    <li><a routerLink="/blog/grid">Blog Grid</a></li>
-                    <li><a routerLink="/blog/list">Blog Listing</a></li>
-                    <li><a routerLink="/blog/masonry">Blog Masonry</a></li>
-                </ul>
-            </li>
-            <li>
-                <a routerLink="/page/faq">FAQ</a>
-            </li>
-            <li>
-                <a routerLink="/page/error404">Error 404</a>
-            </li>
-            <li>
-                <a routerLink="/page/contact">Contact us</a>
-            </li>
-        </ul>
-    </li>
-    <li>
-        <a href="javascript:void(0);">Post detail</a>
-        <ul class="sub-menu">
-            <li><a routerLink="/blog/image-blog">Post Image</a></li>
-            <li><a routerLink="/blog/blog-with-gallery">Post Gallery</a></li>
-            <li><a routerLink="/blog/video-blog">Post Video</a></li>
-            <li><a routerLink="/blog/blog-with-sidebar">Post Right Sidebar</a></li>
-        </ul>
-    </li>
-
-    <li>
-        <a href="javascript:void(0);">Projects</a>
-        <ul class="sub-menu">
-            <li><a routerLink="/project/grid">Project Grid</a></li>
-            <li><a routerLink="/project/masonry">Project Masonry</a></li>
-            <li><a routerLink="/project/carousel">Project Carousal</a></li>
-            <li><a routerLink="/project/classic1">Project Classic-1</a></li>
-            <li><a routerLink="/project/classic2">Project Classic-2</a></li>
-            <li><a routerLink="/project/detail">Project Detail</a></li>
-        </ul>
-    </li>
-</ul> -->

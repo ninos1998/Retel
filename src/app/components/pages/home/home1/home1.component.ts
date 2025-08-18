@@ -10,6 +10,7 @@ import { Projects1Component } from '@sections/home/home1/projects1/projects1.com
 import { Blogs1Component } from '@sections/home/home1/blogs1/blogs1.component';
 import { Testimonials1Component } from '@sections/home/home1/testimonials1/testimonials1.component';
 import { HomeService } from '@services/home.service';
+import { OurMaterialsComponent } from '@components/page_sections/home/home1/our-materials/our-materials.component';
 
 /**
  * Defines functional view for home page style 1.
@@ -29,7 +30,8 @@ import { HomeService } from '@services/home.service';
     CallUs1Component,
     Projects1Component,
     Blogs1Component,
-    Testimonials1Component
+    Testimonials1Component,
+    OurMaterialsComponent
   ]
 })
 export class Home1Component {

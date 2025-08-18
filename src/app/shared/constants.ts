@@ -24,7 +24,9 @@ export const route = {
         SERVICES: "services",
         FAQ: "faq",
         ERROR404: "error404",
-        CONTACT: "contact"
+        CONTACT: "contact",
+        IMPLANTATION:"implantation",
+        DOMAINES:"domaines",
     },
     blogs: {
         GRID: "grid",

@@ -1,9 +1,11 @@
-<app-about3 [data]="_data.about" title="1" />
+<app-about3 id="presentation" [data]="_data.about" title="1" />
+<app-team3 id="team" [data]="_data.team" />
 
-<app-specializations4 [data]="_data.specializations" />
+<app-specializations4 [data]="_data.specializations" id="valeurs" />
+<app-our-value1 id="moyens" [data]="_data.ourValue" />
+<app-our-materials [data]="_data.materials"></app-our-materials>
 
-<!-- <app-our-value1 [data]="_data2.ourValue" /> -->
-
-<app-team3 [data]="_data.team" />
-
-<!-- <app-story1 [data]="_data.story" /> -->
+<app-certification
+  [data]="_data.certificats"
+  id="certifications"
+></app-certification>
